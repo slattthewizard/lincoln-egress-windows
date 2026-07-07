@@ -1,0 +1,6 @@
+# Lincoln Egress Windows — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://lincolnegresswindows.com/sitemap-index.xml
