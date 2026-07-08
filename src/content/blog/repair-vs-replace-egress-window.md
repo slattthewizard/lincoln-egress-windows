@@ -25,7 +25,7 @@ This guide walks through the signs that point to a simple repair, the signs that
 
 Most homeowners only think about their egress window when something forces the issue: a stuck sash during a storm, a flooded well after spring rain, or a home inspection report that lands the day before closing. That timing pressure is exactly why it helps to know the difference between a quick fix and a real replacement before you're standing in front of a contractor with a deadline.
 
-If you'd rather skip the guesswork, a free written estimate settles it fast. Call [(402) 875-2214](tel:+14028752214) or [reach out through our contact form](/#contact) and we'll tell you straight whether your window needs a fix or a full swap.
+If you'd rather skip the guesswork, a free written estimate settles it fast. Call [(509) 224-3484](tel:+15092243484) or [reach out through our contact form](/#contact) and we'll tell you straight whether your window needs a fix or a full swap.
 
 ## Signs You're Dealing With a Repair, Not a Replacement
 
@@ -103,7 +103,7 @@ Run through these questions before you make the call:
 4. Is the well wall cracked, bowing, or separating from the foundation? If yes, replacement, and possibly a structural review first.
 5. Are you planning to sell, rent, or finish this space as a legal bedroom in the next few years? If yes, get the window compliant now instead of waiting.
 
-If you get through that list and you're still not sure, that's normal. A lot of these calls depend on things you can't see from inside, like how the well was backfilled or whether the frame has hidden rust. We do free written estimates for exactly that reason. Call [(402) 875-2214](tel:+14028752214) or [get in touch here](/#contact) and we'll tell you honestly if a repair will hold or if it's time to replace.
+If you get through that list and you're still not sure, that's normal. A lot of these calls depend on things you can't see from inside, like how the well was backfilled or whether the frame has hidden rust. We do free written estimates for exactly that reason. Call [(509) 224-3484](tel:+15092243484) or [get in touch here](/#contact) and we'll tell you honestly if a repair will hold or if it's time to replace.
 
 One more thing worth saying plainly: don't try to cut a new opening into your foundation yourself, and don't run new lighting or an outlet near a window well without a licensed electrician. Concrete cutting and structural work around a foundation wall is not a weekend DIY project, and getting it wrong can cost far more than the job itself. If your project is more than a well swap or a straight window replacement, it's worth reading our [contractor hiring checklist](/blog/hiring-egress-window-contractor-checklist/) before you sign with anyone.
 

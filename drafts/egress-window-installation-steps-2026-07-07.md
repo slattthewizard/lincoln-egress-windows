@@ -26,7 +26,7 @@ Every egress window project follows roughly the same sequence, whether it's a st
 
 That's the whole arc. A couple of these steps take an hour. One of them, the cut-in, takes a full day of loud, dusty work. And permitting runs on the county's clock, not ours, so it's worth building that lag time into your plans early rather than finding out about it the week you wanted to start.
 
-If you're not sure whether your basement even qualifies for a straightforward install or needs a bigger structural conversation first, that's exactly what a free written estimate answers. Call [(402) 875-2214](tel:+14028752214) or [request one online](/#contact) before you start pricing windows on your own.
+If you're not sure whether your basement even qualifies for a straightforward install or needs a bigger structural conversation first, that's exactly what a free written estimate answers. Call [(509) 224-3484](tel:+15092243484) or [request one online](/#contact) before you start pricing windows on your own.
 
 ## Step 1: Planning, Code Requirements, and Permits
 
@@ -103,7 +103,7 @@ Stop before you touch these, though:
 
 Skipping a licensed contractor on the structural steps to save money often backfires, since an unpermitted or improperly cut opening can create real insurance and resale problems down the road, on top of the safety risk in the moment.
 
-If you've got a basement bedroom sitting in limbo without legal egress, or a window that's too small to meet current code, let's talk through what your specific project actually needs. Call [(402) 875-2214](tel:+14028752214) or [request a free written estimate](/#contact) and we'll walk your yard, check your opening, and give you real numbers before anything gets cut.
+If you've got a basement bedroom sitting in limbo without legal egress, or a window that's too small to meet current code, let's talk through what your specific project actually needs. Call [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll walk your yard, check your opening, and give you real numbers before anything gets cut.
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ Laminated glass is two layers of glass bonded around a clear plastic interlayer,
 
 Both types qualify as "safety glazing" under residential building code, which is the category egress windows fall into. The difference shows up in how each one performs during a storm, a break-in attempt, or a kid running into the glass with a bike.
 
-If you're not sure which one is already in your window, or whether your current basement window even qualifies as egress at all, our crew can take a look during a free estimate. Call [(402) 875-2214](tel:+14028752214) or reach out through our [contact form](/#contact) and we'll walk you through it before you spend a dollar.
+If you're not sure which one is already in your window, or whether your current basement window even qualifies as egress at all, our crew can take a look during a free estimate. Call [(509) 224-3484](tel:+15092243484) or reach out through our [contact form](/#contact) and we'll walk you through it before you spend a dollar.
 
 ## Why Lincoln Code Requires Safety Glass Near Basement Bedrooms
 
@@ -60,7 +60,7 @@ Because laminated glass holds together after impact, it's a common choice for ho
 
 Denise Ortiz in Seward went this route when she finished her basement and wanted the new bedroom to double as a safe space during storm season. She upgraded from standard tempered glazing to laminated glass on her egress window, which added about $380 to her project total, bringing her full install to just under $5,900. She told us it was the cheapest upgrade on the whole job for the peace of mind it bought her family.
 
-Laminated glass is worth asking about if you're near a busy street where flying debris is a concern, if you've had break-in attempts in the neighborhood, or if severe weather protection matters to you. It's not required by code, so it's entirely a personal call. If you want a quote comparing both glass types side by side for your home, call [(402) 875-2214](tel:+14028752214) and we'll price it both ways.
+Laminated glass is worth asking about if you're near a busy street where flying debris is a concern, if you've had break-in attempts in the neighborhood, or if severe weather protection matters to you. It's not required by code, so it's entirely a personal call. If you want a quote comparing both glass types side by side for your home, call [(509) 224-3484](tel:+15092243484) and we'll price it both ways.
 
 ## Tempered vs. Laminated Glass Egress Window Cost Comparison
 
@@ -84,7 +84,7 @@ Marcus Whitfield in Hickman found this out mid-sale. His home inspector flagged 
 
 That kind of last-minute scramble is common. We cover the warning signs buyers and sellers should watch for in our post on [home inspection egress window red flags](/blog/home-inspection-egress-window-red-flags/), and if you're weighing whether to fix an aging window versus start over, that's a repair-versus-replace decision worth getting a professional opinion on before you list.
 
-If you're selling a home with a basement bedroom, get the glass and the opening checked well before it goes on the market. A pre-listing inspection from a licensed contractor costs far less than a rushed closing-week repair. Reach out through our [contact form](/#contact) or call [(402) 875-2214](tel:+14028752214) if you want that checked before you list.
+If you're selling a home with a basement bedroom, get the glass and the opening checked well before it goes on the market. A pre-listing inspection from a licensed contractor costs far less than a rushed closing-week repair. Reach out through our [contact form](/#contact) or call [(509) 224-3484](tel:+15092243484) if you want that checked before you list.
 
 ## Choosing the Right Glass for Your Lincoln Home
 

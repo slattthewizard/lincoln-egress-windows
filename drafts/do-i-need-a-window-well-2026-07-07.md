@@ -25,7 +25,7 @@ You likely need a window well if any of these are true:
 - You're selling a house with a basement bedroom that has no exterior exit.
 - Your existing well is rusted through, caving in, or too small for the window it surrounds.
 
-If none of those apply and your basement window sits above grade with open sight lines to the yard, you probably don't need one. But if you're planning to add a bedroom, home office, or rental unit below grade in Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland, get it checked before you frame a single wall. Our [window well installation](/window-well-installation-lincoln/) service starts with a walkthrough, not a sales pitch. Call us at [(402) 875-2214](tel:+14028752214) or [request a free written estimate](/#contact) and we'll tell you straight whether your window needs a well, a full egress swap, or nothing at all.
+If none of those apply and your basement window sits above grade with open sight lines to the yard, you probably don't need one. But if you're planning to add a bedroom, home office, or rental unit below grade in Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland, get it checked before you frame a single wall. Our [window well installation](/window-well-installation-lincoln/) service starts with a walkthrough, not a sales pitch. Call us at [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll tell you straight whether your window needs a well, a full egress swap, or nothing at all.
 
 One more wrinkle worth knowing: even if your window currently has a well, that doesn't automatically mean it's compliant. Older wells built before current code adoption are sometimes too shallow, too narrow, or missing the projection needed for the window to fully open. A tape measure and five minutes will tell you more than guessing.
 
@@ -119,4 +119,4 @@ A standalone well replacement runs $600 to $1,500. A full new egress cut-in with
 
 Inspectors and appraisers will typically flag it as a non-conforming bedroom, which can lower your listed bedroom count and your sale price. Buyers' lenders sometimes require the fix before closing. Handling it ahead of listing avoids a scramble against a closing deadline.
 
-Whether you're finishing a basement in Ashland, prepping a house to sell in Seward, or just fixing a rusted-out well in Lincoln, the fastest way to get a straight answer is a free, no-pressure estimate. [Reach out here](/#contact) or call [(402) 875-2214](tel:+14028752214) and we'll tell you exactly what your window needs.
+Whether you're finishing a basement in Ashland, prepping a house to sell in Seward, or just fixing a rusted-out well in Lincoln, the fastest way to get a straight answer is a free, no-pressure estimate. [Reach out here](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll tell you exactly what your window needs.

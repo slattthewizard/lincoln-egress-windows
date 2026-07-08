@@ -19,7 +19,7 @@ An egress window installation touches three separate systems: the window unit it
 
 Take the case of a homeowner in Hickman who had a new egress window installed for a basement bedroom conversion. The window itself came with solid manufacturer coverage on the glass and frame. What nobody explained was that the labor to seal and flash the opening carried a separate, much shorter workmanship warranty. When a small leak showed up around the frame eighteen months later, the manufacturer warranty didn't apply at all, because the glass and vinyl were fine. It was an installation issue, and the workmanship coverage had already expired. The repair ended up costing about $850 out of pocket.
 
-That kind of gap is avoidable. If you're comparing bids or about to sign, [contact us](/#contact) or call **(402) 875-2214** and ask us to walk through exactly what's covered on your specific project before you commit. A five-minute conversation up front beats an unpleasant surprise later.
+That kind of gap is avoidable. If you're comparing bids or about to sign, [contact us](/#contact) or call **(509) 224-3484** and ask us to walk through exactly what's covered on your specific project before you commit. A five-minute conversation up front beats an unpleasant surprise later.
 
 ## The Three Types of Egress Window Warranties
 
@@ -63,7 +63,7 @@ A homeowner in Crete learned this lesson after going with the lowest of three bi
 
 Ask whether the workmanship warranty is backed by the same company doing the physical labor, or by a subcontractor. If subs are involved, ask who is actually responsible for warranty claims: the general contractor or the sub who did the cutting and setting.
 
-If you want a second opinion before signing anything, [reach out to our team](/#contact) or call **(402) 875-2214**. We're happy to review a competing bid's warranty language with you at no cost.
+If you want a second opinion before signing anything, [reach out to our team](/#contact) or call **(509) 224-3484**. We're happy to review a competing bid's warranty language with you at no cost.
 
 ## Waterproofing and Window Well Warranty Questions
 
@@ -91,7 +91,7 @@ Before you sign anything, it's worth running through a full checklist, not just 
 
 For general consumer protection on written warranties, the Federal Trade Commission publishes a plain-language guide worth a few minutes of your time: [consumer.ftc.gov/articles/getting-most-your-warranty](https://consumer.ftc.gov/articles/getting-most-your-warranty). If your project also requires a Lincoln building permit, the Lincoln-Lancaster County Building & Safety Department has permit and inspection details at [lincoln.ne.gov](https://www.lincoln.ne.gov/City/Government/Departments/Building-and-Safety).
 
-None of this replaces a real conversation about your specific project. Every job is a little different depending on the age of your home, the type of window well, and whether you're doing a new cut-in or replacing an existing opening. If you're weighing options, our comparison of [repair vs. replace for an egress window](/blog/repair-vs-replace-egress-window/) is a good place to start, and then [call (402) 875-2214](tel:+14028752214) or [get in touch](/#contact) for a free written estimate that spells out warranty coverage in plain terms before you sign anything.
+None of this replaces a real conversation about your specific project. Every job is a little different depending on the age of your home, the type of window well, and whether you're doing a new cut-in or replacing an existing opening. If you're weighing options, our comparison of [repair vs. replace for an egress window](/blog/repair-vs-replace-egress-window/) is a good place to start, and then [call (509) 224-3484](tel:+15092243484) or [get in touch](/#contact) for a free written estimate that spells out warranty coverage in plain terms before you sign anything.
 
 ## Frequently Asked Questions
 

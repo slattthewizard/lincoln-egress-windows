@@ -38,7 +38,7 @@ Lincoln and Lancaster County build their residential code off the International 
 
 Closets, walk-in storage, and stairwells don't count toward that square footage. A finished basement room with a 6-foot ceiling under a duct or a room with only a small hopper window fails the test even if it has a bed, a dresser, and a door.
 
-Call our office at [(402) 875-2214](tel:+14028752214) if you want a straight answer on whether your specific room qualifies. We measure it in person and tell you exactly what's missing, no upsell required.
+Call our office at [(509) 224-3484](tel:+15092243484) if you want a straight answer on whether your specific room qualifies. We measure it in person and tell you exactly what's missing, no upsell required.
 
 ## The Egress Window Rule: Nebraska's Non-Negotiable Requirement
 
@@ -102,7 +102,7 @@ This is also where we tell homeowners to stop doing it themselves. Cutting throu
 
 In Crete, a landlord named Roger was renting out a three-bedroom house where the basement bedroom's window well had partially collapsed, burying the escape route in dirt. He tried to fix it himself with retaining wall blocks from a home store, and it failed inspection twice before he called a licensed crew to install a proper well to code, roughly $1,100 with the new cover. He'd been renting the unit as a "3-bedroom" for two years without a legal third bedroom, which is a liability most landlords don't want to think about until a tenant asks.
 
-Ready to find out where your room stands? [Request your free written estimate](/#contact) or call [(402) 875-2214](tel:+14028752214) and we'll walk you through exactly what your home needs, no pressure, no guesswork.
+Ready to find out where your room stands? [Request your free written estimate](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll walk you through exactly what your home needs, no pressure, no guesswork.
 
 ## Frequently Asked Questions
 

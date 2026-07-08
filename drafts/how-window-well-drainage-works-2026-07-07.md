@@ -11,7 +11,7 @@ Pour a five-gallon bucket of water into your window well and time how long it ta
 
 So how does window well drainage work when it's actually working? It's a simple gravity system: rain falls into the well, filters through a gravel bed, and either drains through a pipe tied into your foundation's drainage system or soaks slowly into the surrounding soil. Every part has to do its job, and if even one piece is missing or clogged, water backs up against your basement window instead of moving away from it.
 
-We get asked about this constantly in Lincoln, especially by homeowners who just found water in a basement bedroom and want to understand what went wrong before they pay to fix it. This guide breaks down the actual mechanics: what's really down there, how the water is supposed to move, and what separates a system that works for decades from one that fails every spring. If you're already looking at a wet window well and want eyes on it now, [contact our team](/#contact) or call [(402) 875-2214](tel:+14028752214) for a free written estimate.
+We get asked about this constantly in Lincoln, especially by homeowners who just found water in a basement bedroom and want to understand what went wrong before they pay to fix it. This guide breaks down the actual mechanics: what's really down there, how the water is supposed to move, and what separates a system that works for decades from one that fails every spring. If you're already looking at a wet window well and want eyes on it now, [contact our team](/#contact) or call [(509) 224-3484](tel:+15092243484) for a free written estimate.
 
 ## The Three Ways Window Wells Actually Drain in Lincoln
 
@@ -81,7 +81,7 @@ When we cut in a new egress opening, the drainage system gets built at the same 
 
 That upfront cost is a lot cheaper than paying twice, once for the window and again a few years later to fix drainage that was never done right. For more detail on the egress code side of things, the [Nebraska State Fire Marshal](https://sfm.nebraska.gov/) publishes the code references local inspectors use for egress window and well requirements.
 
-Thinking about a new install or want your existing drainage checked before you commit to anything? [Get a free written estimate](/#contact) or call [(402) 875-2214](tel:+14028752214) and we'll walk the site with you.
+Thinking about a new install or want your existing drainage checked before you commit to anything? [Get a free written estimate](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll walk the site with you.
 
 ## When to Call a Professional
 
@@ -109,4 +109,4 @@ Not necessarily. A standalone dry well a few feet away can work just as well if 
 
 Clearing a clogged drain typically runs $150-$600. Adding a new drain tie-in or rebuilding a dry well usually costs $800-$1,500. If the entire well needs replacing along with the drainage, expect $600-$1,500, and a full new egress cut-in with drainage built in runs $3,500-$7,000, with full Lincoln quotes commonly landing at $5,500-$9,500.
 
-Still not sure what's going on under your window well? [Reach out to our team](/#contact) or call [(402) 875-2214](tel:+14028752214) and we'll give you a straight answer along with a free written estimate.
+Still not sure what's going on under your window well? [Reach out to our team](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll give you a straight answer along with a free written estimate.

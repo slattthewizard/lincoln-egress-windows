@@ -19,7 +19,7 @@ Every window well has one job beyond holding back dirt: get rain and snowmelt aw
 
 For a basement bedroom, this isn't just a nuisance. Nebraska's residential code requires a functioning egress window and well for any basement sleeping room, and an egress well that floods regularly can compromise the window seal over time, which is exactly the kind of defect a home inspector flags during a sale. If you're weighing whether your basement even needs one, our guide on [do-i-need-a-window-well](/blog/do-i-need-a-window-well/) breaks down when a well is required versus optional.
 
-If you're already seeing water in your well after every rain, don't wait. Call us at [(402) 875-2214](tel:+14028752214) or [request a free estimate](/#contact) and we'll walk you through whether it's a drainage fix or a bigger issue.
+If you're already seeing water in your well after every rain, don't wait. Call us at [(509) 224-3484](tel:+15092243484) or [request a free estimate](/#contact) and we'll walk you through whether it's a drainage fix or a bigger issue.
 
 ## The Core Window Well Drainage Maintenance Checklist
 
@@ -54,7 +54,7 @@ Spring is the season that catches most Lincoln homeowners off guard. Our post on
 
 **Crete:** Renata was preparing to sell her house and a home inspector flagged water staining on her basement bedroom's egress window frame. The well drain was clogged with years of compacted leaf litter, and moisture had been sitting against the frame long enough to warp it slightly. Because the window itself was still sound, a drain clean-out plus a $450 basement window swap on the frame got her through inspection without a full egress replacement.
 
-Three different problems, three different price points, and all of them started as small drainage issues that got ignored for too long. Ready to get ahead of yours? [Get a free written estimate](/#contact) or call [(402) 875-2214](tel:+14028752214) and we'll take a look before it turns into a bigger repair.
+Three different problems, three different price points, and all of them started as small drainage issues that got ignored for too long. Ready to get ahead of yours? [Get a free written estimate](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll take a look before it turns into a bigger repair.
 
 ## Window Well Drainage Problems vs. What They Usually Mean
 
@@ -87,7 +87,7 @@ Most of this checklist is safe and simple for any homeowner to handle. But a few
 - **You smell sewage or see water backing up from inside the drain.** That can mean a tie-in problem with your foundation drain tile, which needs a licensed contractor.
 - **Anything involves electrical conduit or wiring near the well**, such as low-voltage well lighting that's been damaged by water. Don't troubleshoot live wiring near standing water.
 
-If you're not sure which category your well falls into, a quick call costs nothing. Reach us 24/7 at [(402) 875-2214](tel:+14028752214), especially if you're facing a closing deadline or a flooded well that needs same-day attention.
+If you're not sure which category your well falls into, a quick call costs nothing. Reach us 24/7 at [(509) 224-3484](tel:+15092243484), especially if you're facing a closing deadline or a flooded well that needs same-day attention.
 
 ## Building Maintenance Into Your Routine
 
@@ -115,4 +115,4 @@ Clearing surface debris and refreshing the top layer of gravel is safe DIY work.
 
 Yes. Home inspectors routinely flag water staining, standing water, or a rusted well during a sale, and a basement bedroom with a non-functioning egress well can raise questions about code compliance. Keeping the well maintained protects both the window and your negotiating position at closing.
 
-Ready to get your window well drainage checked before the next storm? Call Lincoln Egress Windows at [(402) 875-2214](tel:+14028752214) or [request your free written estimate](/#contact) today.
+Ready to get your window well drainage checked before the next storm? Call Lincoln Egress Windows at [(509) 224-3484](tel:+15092243484) or [request your free written estimate](/#contact) today.

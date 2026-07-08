@@ -31,7 +31,7 @@ Other factors that move the number up or down:
 - **Permits.** Lincoln-Lancaster County requires a building permit for egress window work, generally $75 to $200 depending on scope.
 - **Access.** Landscaping, decks, or utility lines near the dig site can add labor time.
 
-If you want a number specific to your house, [request a free written estimate](/#contact) or call (402) 875-2214. We'll walk the site and give you a real figure, not a range pulled from a brochure.
+If you want a number specific to your house, [request a free written estimate](/#contact) or call (509) 224-3484. We'll walk the site and give you a real figure, not a range pulled from a brochure.
 
 ## Lincoln Window Well Installation Cost Breakdown
 
@@ -59,7 +59,7 @@ Numbers on a page only mean so much. Here's how window well installation cost ha
 
 **Beatrice: a home sale nearly fell through over egress.** A seller in Beatrice had a basement bedroom that had been used as a guest room for years, but the window was a small basement hopper that didn't meet egress size requirements. The buyer's inspector flagged it, and the deal was at risk. With a closing deadline three weeks out, the homeowner needed the existing opening enlarged and a code-compliant window installed fast. That job ran $2,400, on the higher end for an existing-opening replacement because the frame had to be widened slightly to hit the minimum clear opening. The sale closed on schedule.
 
-If you're facing a closing deadline like the Beatrice homeowner was, don't wait. [Call (402) 875-2214](tel:+14028752214) and we'll get someone out to inspect and quote the same week.
+If you're facing a closing deadline like the Beatrice homeowner was, don't wait. [Call (509) 224-3484](tel:+15092243484) and we'll get someone out to inspect and quote the same week.
 
 ## New Cut-In vs. Existing Opening: Where the Cost Really Comes From
 
@@ -91,7 +91,7 @@ You can't change what your foundation needs, but there are a few ways to keep wi
 - **Don't skip drainage to save money.** A well without proper gravel base and drainage is the single most common reason wells fail early, and redoing a failed well costs more than doing it right the first time.
 - **Ask about timing.** Late fall and winter installs can sometimes be scheduled at better rates since demand drops, though frozen ground can add complexity depending on conditions.
 
-If you want a real, itemized number for your house rather than a range, [reach out through our contact form](/#contact) or call (402) 875-2214. Estimates are free and we'll tell you honestly whether you need a full cut-in or a simpler fix.
+If you want a real, itemized number for your house rather than a range, [reach out through our contact form](/#contact) or call (509) 224-3484. Estimates are free and we'll tell you honestly whether you need a full cut-in or a simpler fix.
 
 Homeowners in Seward, Crete, and Ashland ask us the same question we heard in Waverly and Beatrice: is this actually going to hold up? A properly installed, properly drained window well with the right material for Nebraska's climate should last decades, not years. That's the real cost comparison worth making, not just the number on the first page of a quote.
 
@@ -117,4 +117,4 @@ A simple cover or minor grading fix is reasonable DIY territory. Cutting concret
 
 The biggest factor is whether the job requires cutting a brand new opening into the foundation or simply replacing what's already there. A cut-in job costs two to three times more than an existing-opening swap, so always confirm which scope of work each quote actually covers before comparing prices.
 
-Ready for a real number instead of a guess? [Contact us](/#contact) or call [(402) 875-2214](tel:+14028752214) for a free written estimate on your Lincoln-area window well project.
+Ready for a real number instead of a guess? [Contact us](/#contact) or call [(509) 224-3484](tel:+15092243484) for a free written estimate on your Lincoln-area window well project.

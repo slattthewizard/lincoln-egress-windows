@@ -13,7 +13,7 @@ If you're planning basement finishing with an egress window in Lincoln, that win
 
 This guide walks through what Lancaster County actually requires, what it costs to add egress during a basement finish, and how to sequence the work so you're not tearing out new drywall to cut a hole in the foundation six months later.
 
-Not sure if your basement plan needs egress at all? A quick call gets you a straight answer before you buy a single stud. Reach Lincoln Egress Windows at [(402) 875-2214](tel:+14028752214) or [request a free written estimate](/#contact) and we'll walk the space with you.
+Not sure if your basement plan needs egress at all? A quick call gets you a straight answer before you buy a single stud. Reach Lincoln Egress Windows at [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll walk the space with you.
 
 ## Why Basement Finishing and Egress Windows Go Together
 
@@ -64,7 +64,7 @@ Most basement finishing projects in Lincoln that need a new cut-in land in that 
 
 **Crete:** Marcus in Crete was finishing his basement specifically to add a legal bedroom for his teenage son. He'd priced a DIY well kit online for a fraction of the cost, but the foundation cut required a masonry saw he didn't own and a drainage tie-in he hadn't planned for. He ended up hiring it out after his first attempt cracked the block wall slightly outside the planned opening. The professional fix, including patching that crack, ran him closer to $7,400, more than a clean install would have cost from the start.
 
-If your project sounds like any of these, get a walk-through before you commit to a framing date. Call [(402) 875-2214](tel:+14028752214) and we'll tell you honestly whether your existing window can be salvaged or needs a full cut-in.
+If your project sounds like any of these, get a walk-through before you commit to a framing date. Call [(509) 224-3484](tel:+15092243484) and we'll tell you honestly whether your existing window can be salvaged or needs a full cut-in.
 
 ## Timeline: Where Egress Fits in Your Basement Finishing Schedule
 
@@ -97,7 +97,7 @@ If your basement finishing plan is really an accessory dwelling unit or a separa
 
 The fastest way to keep a Lincoln basement finishing project on schedule is to settle the egress question in week one, not week ten. A short site visit tells you whether your existing window qualifies, what a cut-in would cost, and how it fits your framing timeline.
 
-We offer free written estimates and can usually get out to Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland within a few days. Call [(402) 875-2214](tel:+14028752214), email info@lincolnegresswindows.com, or [request an estimate here](/#contact) before your framing crew arrives.
+We offer free written estimates and can usually get out to Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland within a few days. Call [(509) 224-3484](tel:+15092243484), email info@lincolnegresswindows.com, or [request an estimate here](/#contact) before your framing crew arrives.
 
 ## Frequently Asked Questions
 

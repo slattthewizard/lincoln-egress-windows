@@ -17,13 +17,13 @@ faq:
   - question: "How long does it take to install a basement egress window?"
     answer: "A straightforward window swap in an existing opening usually takes a day. A full cut-in with a new opening and window well typically takes two to four days, depending on foundation type, well depth, and weather."
   - question: "Will adding an egress window increase my home's value?"
-    answer: "Generally yes, because it converts a non-legal basement room into a bona fide bedroom, which affects the home's official bedroom count and appraised value. An extra legal bedroom can move a home into a different comparable-sales bracket in some Lincoln neighborhoods. It also removes a common home inspection red flag that can slow down or derail a sale. See home inspection egress window red flags for what buyers' inspectors typically look for. Have a basement bedroom that needs to be code-legal before a sale, a rental inspection, or just for peace of mind? Get your free written estimate or call Lincoln Egress Windows at (402) 875-2214."
+    answer: "Generally yes, because it converts a non-legal basement room into a bona fide bedroom, which affects the home's official bedroom count and appraised value. An extra legal bedroom can move a home into a different comparable-sales bracket in some Lincoln neighborhoods. It also removes a common home inspection red flag that can slow down or derail a sale. See home inspection egress window red flags for what buyers' inspectors typically look for. Have a basement bedroom that needs to be code-legal before a sale, a rental inspection, or just for peace of mind? Get your free written estimate or call Lincoln Egress Windows at (509) 224-3484."
 ---
 A basement bedroom without a legal way out isn't a bedroom. It's a room your appraiser, your insurance company, and Lincoln's building inspector will all quietly refuse to count.
 
 That's the number one reason homeowners across Lancaster County call us. They finished a basement, hung a door, bought a bed, and then found out the room can't be listed as a bedroom without an emergency escape opening. So what does it actually cost to fix that? The cost to add an egress window for a basement bedroom in the Lincoln area runs $3,500 to $7,000 for a standard cut-in installation, with full Lincoln quotes commonly landing at $5,500 to $9,500 once you add the window well and interior finishing. If you already have a window opening and just need to swap in a code-size unit, the job is far cheaper. We'll walk through the real numbers, what changes the price, and where local homeowners have actually spent their money.
 
-If you're staring down a home sale, a rental license inspection, or a basement remodel that's stalled on this exact question, [get a free written estimate](/#contact) or call [(402) 875-2214](tel:+14028752214). We quote the job in person, not over a guess.
+If you're staring down a home sale, a rental license inspection, or a basement remodel that's stalled on this exact question, [get a free written estimate](/#contact) or call [(509) 224-3484](tel:+15092243484). We quote the job in person, not over a guess.
 
 ## What Drives the Cost to Add an Egress Window for a Basement Bedroom
 
@@ -111,7 +111,7 @@ Cutting a new opening through a foundation wall is a different category entirely
 
 Our rule of thumb: if the project involves cutting concrete, moving anything structural, or working near electrical lines close to the window well, that's a call-a-professional job, not a weekend project.
 
-Ready to get a real number for your basement? [Contact us for a free written estimate](/#contact) or call [(402) 875-2214](tel:+14028752214). We serve Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and every quote is free and written, not a verbal guess.
+Ready to get a real number for your basement? [Contact us for a free written estimate](/#contact) or call [(509) 224-3484](tel:+15092243484). We serve Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and every quote is free and written, not a verbal guess.
 
 ## Frequently Asked Questions
 
@@ -131,4 +131,4 @@ A straightforward window swap in an existing opening usually takes a day. A full
 
 Generally yes, because it converts a non-legal basement room into a bona fide bedroom, which affects the home's official bedroom count and appraised value. An extra legal bedroom can move a home into a different comparable-sales bracket in some Lincoln neighborhoods. It also removes a common home inspection red flag that can slow down or derail a sale. See [home inspection egress window red flags](/blog/home-inspection-egress-window-red-flags/) for what buyers' inspectors typically look for.
 
-Have a basement bedroom that needs to be code-legal before a sale, a rental inspection, or just for peace of mind? [Get your free written estimate](/#contact) or call Lincoln Egress Windows at [(402) 875-2214](tel:+14028752214).
+Have a basement bedroom that needs to be code-legal before a sale, a rental inspection, or just for peace of mind? [Get your free written estimate](/#contact) or call Lincoln Egress Windows at [(509) 224-3484](tel:+15092243484).

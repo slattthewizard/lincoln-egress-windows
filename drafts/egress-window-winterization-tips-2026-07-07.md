@@ -11,7 +11,7 @@ Your furnace runs every twenty minutes and the basement bedroom still feels like
 
 These egress window winterization tips are built for Lincoln and Southeast Nebraska homes, where temperatures swing from 50 degrees to below zero in the same week. Freeze-thaw cycles are hard on window wells, and a few hours of prep in October or November saves real money by February. We'll walk through sealing, well covers, drainage, and the point where you should stop and call a professional instead of pushing a DIY fix too far.
 
-If you're already noticing cold air around your basement window or standing water in the well, don't wait for the first hard freeze. Call [(402) 875-2214](tel:+14028752214) or [reach our team](/#contact) for a free written estimate before the ground locks up.
+If you're already noticing cold air around your basement window or standing water in the well, don't wait for the first hard freeze. Call [(509) 224-3484](tel:+15092243484) or [reach our team](/#contact) for a free written estimate before the ground locks up.
 
 ## Why Egress Windows Are Your Basement's Weak Point in Winter
 
@@ -59,7 +59,7 @@ Dale's basement bedroom stayed above 60 degrees all winter without any extra hel
 
 Regular drainage upkeep is the cheapest insurance you can buy for an egress window. We break down a full seasonal routine, gravel, grading, and all, in our [window well drainage maintenance checklist](/blog/window-well-drainage-maintenance-checklist/).
 
-Need someone to look at a well before the ground freezes? Our team handles well and drainage work across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland. [Get a free estimate](/#contact) or call [(402) 875-2214](tel:+14028752214).
+Need someone to look at a well before the ground freezes? Our team handles well and drainage work across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland. [Get a free estimate](/#contact) or call [(509) 224-3484](tel:+15092243484).
 
 ## Egress Window Winterization Tips for Rental Properties and Homes Headed to Market
 
@@ -101,7 +101,7 @@ Winterizing an egress window doesn't need to eat your whole Saturday. Clear the 
 
 If your walkthrough turns up rust, a bowing wall, a window that won't open freely, or water that isn't draining, that's past the DIY line. Southeast Nebraska's freeze-thaw cycles are unforgiving on window wells that are already compromised, and a small crack in November can be a $1,000 repair by March.
 
-We offer free written estimates and a 24/7 line for anything that turns into an inspection deadline or an emergency closing issue. Call [(402) 875-2214](tel:+14028752214) or [request an estimate online](/#contact) before the first hard freeze locks up the ground.
+We offer free written estimates and a 24/7 line for anything that turns into an inspection deadline or an emergency closing issue. Call [(509) 224-3484](tel:+15092243484) or [request an estimate online](/#contact) before the first hard freeze locks up the ground.
 
 ## Frequently Asked Questions
 

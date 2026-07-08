@@ -11,7 +11,7 @@ Three bids for the same basement bedroom window, and the prices are $3,200, $5,8
 
 If you're figuring out how to hire an egress window contractor in Lincoln, the price alone won't tell you much. What matters is whether the contractor pulls a permit, cuts the opening to code, and stands behind the work when the ground shifts next spring. A basement bedroom without a legal egress window isn't just a safety gap. It's not a bedroom in the eyes of an appraiser, an inspector, or a buyer's agent, and that can cost you a lot more than the window did.
 
-This guide walks through exactly what to check before you sign anything, what a legitimate quote should include, and the red flags that mean it's time to call someone else. If you'd rather skip the research and just get a straight answer, call [(402) 875-2214](tel:+14028752214) or [request a free written estimate](/#contact) and we'll walk your basement with you.
+This guide walks through exactly what to check before you sign anything, what a legitimate quote should include, and the red flags that mean it's time to call someone else. If you'd rather skip the research and just get a straight answer, call [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll walk your basement with you.
 
 ## Why Hiring the Right Egress Window Contractor in Lincoln Matters
 
@@ -68,7 +68,7 @@ Don't be shy about asking for references tied to jobs similar to yours, especial
 
 It also helps to ask how a contractor handles foundation types you don't expect. Poured concrete, block, and older stone foundations each cut differently, and a crew that's mostly done newer subdivisions might not have the same comfort level with a 1940s block wall in central Lincoln. Ask directly, and if the answer feels vague, that's worth noting before you decide.
 
-Ready to compare a real quote against what you've collected so far? Call [(402) 875-2214](tel:+14028752214) or [get a free written estimate](/#contact) and we'll give you straight numbers for your specific foundation.
+Ready to compare a real quote against what you've collected so far? Call [(509) 224-3484](tel:+15092243484) or [get a free written estimate](/#contact) and we'll give you straight numbers for your specific foundation.
 
 ## Red Flags That Mean Walk Away
 
@@ -110,4 +110,4 @@ Getting three bids and picking a contractor usually takes one to two weeks. Once
 
 A cheap install often skips the permit, uses an undersized opening, or leaves out proper well drainage to hit a lower price. A properly permitted install meets Nebraska's 5.7-square-foot minimum opening, passes city inspection, and comes with a warranty on the seal and the well, which protects you at resale and during heavy rain.
 
-Whatever bids you're comparing right now, it's worth getting one more from a contractor who will walk you through the permit, the opening size, and the drainage plan in plain terms. Call [(402) 875-2214](tel:+14028752214) or [request a free written estimate](/#contact) and we'll give you a clear answer on what your basement actually needs.
+Whatever bids you're comparing right now, it's worth getting one more from a contractor who will walk you through the permit, the opening size, and the drainage plan in plain terms. Call [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll give you a clear answer on what your basement actually needs.

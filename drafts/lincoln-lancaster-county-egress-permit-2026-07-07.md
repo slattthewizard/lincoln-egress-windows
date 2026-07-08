@@ -11,7 +11,7 @@ Can you cut a new basement window into your foundation without telling the city?
 
 An egress window permit in Lincoln Lancaster County covers the cut-in, the window unit itself, and often the window well that goes with it. Lincoln Building & Safety reviews the plans, inspects the rough opening, and signs off once the finished install meets code. Miss that process and you're looking at stop-work orders, fines, or a failed home inspection down the road.
 
-This guide walks through who needs a permit, what Lincoln Building & Safety looks for, what it actually costs, and how the process plays out for homeowners across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland. If you'd rather skip the research and just get it handled, [contact us](/#contact) or call [(402) 875-2214](tel:+14028752214) and we'll pull the permit as part of the job.
+This guide walks through who needs a permit, what Lincoln Building & Safety looks for, what it actually costs, and how the process plays out for homeowners across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland. If you'd rather skip the research and just get it handled, [contact us](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll pull the permit as part of the job.
 
 ## Do You Need an Egress Window Permit in Lincoln?
 
@@ -55,7 +55,7 @@ Weather can also nudge the timeline. Scheduling inspections in the middle of win
 
 If you want the bigger picture on full project pricing, our [egress window cost](/egress-window-cost/) page breaks down installation, well, and finishing costs by scope.
 
-Ready to get the permit process started? [Reach out here](/#contact) or call [(402) 875-2214](tel:+14028752214) and we'll walk you through what your specific project needs before we ever touch the foundation.
+Ready to get the permit process started? [Reach out here](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll walk you through what your specific project needs before we ever touch the foundation.
 
 ## Mini-Stories: How the Permit Process Actually Plays Out
 
@@ -89,7 +89,7 @@ The permit process isn't the hard part of an egress window project, the concrete
 
 If you're not sure whether your project needs a permit, or you want someone who already knows the Lincoln Building & Safety process to handle it, that's exactly what we do. We pull the permit, schedule the inspections, and make sure the finished opening meets the sill height, clear opening, and well dimension requirements the first time.
 
-Get a free written estimate by [contacting our team](/#contact) or calling [(402) 875-2214](tel:+14028752214). We're licensed, insured, and available 24/7 if you're up against an inspection deadline or a closing date.
+Get a free written estimate by [contacting our team](/#contact) or calling [(509) 224-3484](tel:+15092243484). We're licensed, insured, and available 24/7 if you're up against an inspection deadline or a closing date.
 
 ## Frequently Asked Questions
 
