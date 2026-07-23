@@ -23,7 +23,7 @@ Debris also hides damage. A cracked window well cover replacement often gets put
 
 None of this is dramatic on its own. It's the slow accumulation that gets expensive. A homeowner in Hickman told us she'd been meaning to clean out her window wells for "maybe two years" before a heavy spring rain sent an inch of water into her finished basement carpet. The cleanup crew cost her more than a decade of five-minute fall cleanouts would have.
 
-If your window well already has standing water or a cracked cover, don't wait. **Call (509) 224-3484** or [request a free written estimate](/#contact) and we'll take a look before a small problem turns into a wet basement.
+If your window well already has standing water or a cracked cover, don't wait. **Call (509) 351-8404** or [request a free written estimate](/#contact) and we'll take a look before a small problem turns into a wet basement.
 
 ## The Hidden Costs of Skipping Window Well Leaf Debris Cleanup
 
@@ -103,7 +103,7 @@ And if you ever see cracked concrete, exposed rebar, or anything that looks like
 
 A property manager in Ashland overseeing a few rental homes learned this the hard way when a tenant's "clogged drain" turned out to be a collapsed drain pipe under six inches of gravel. What should have been a simple cleanout became an excavation. Getting a professional opinion early would have caught it during a routine inspection instead.
 
-If you're seeing standing water, rust, or cracks that go beyond normal wear, [call (509) 224-3484](tel:+15092243484) for a free written estimate. We serve Lincoln and the surrounding Lancaster, Seward, Saline, and Gage county communities, and we can tell you within one visit whether you need a cleanout, a repair, or a full window well installation.
+If you're seeing standing water, rust, or cracks that go beyond normal wear, [call (509) 351-8404](tel:+15093518404) for a free written estimate. We serve Lincoln and the surrounding Lancaster, Seward, Saline, and Gage county communities, and we can tell you within one visit whether you need a cleanout, a repair, or a full window well installation.
 
 Standing water in a window well also creates the kind of damp, organic conditions where mold can take hold, which the [EPA notes](https://www.epa.gov/mold/mold-and-health) is worth addressing quickly once it starts. And if you want to track when Nebraska's heavier rain systems are headed your way so you can check your wells beforehand, the [National Weather Service office serving Lincoln](https://www.weather.gov/oax/) posts local forecasts and storm warnings.
 

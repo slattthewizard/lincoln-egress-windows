@@ -11,7 +11,7 @@ Picture this: a bag of leaves, three inches of April slush, and a curious dog al
 
 Homeowners across Lincoln, Waverly, and Seward ask us the same question almost every week: which cover actually fits my well and my budget? The honest answer depends on your well's shape, how much foot traffic your yard sees, and whether the well sits under an egress bedroom window. Below, we'll walk through the real options, what they cost, and how to pick one that won't crack or cave in by next winter.
 
-If you already know your well needs work beyond a cover, our team offers free written estimates and can look at the whole system in one visit. Call [(509) 224-3484](tel:+15092243484) or reach out through our [contact page](/#contact) any time.
+If you already know your well needs work beyond a cover, our team offers free written estimates and can look at the whole system in one visit. Call [(509) 351-8404](tel:+15093518404) or reach out through our [contact page](/#contact) any time.
 
 ## Why the Right Window Well Cover Matters More Than You Think
 
@@ -85,7 +85,7 @@ A few quick guidelines:
 - Replace cracked or warped covers before the first hard freeze, not after.
 - Confirm the cover still allows quick, tool-free release if the well serves an egress window.
 
-If you're not sure which window well cover types fit your situation, send us a photo and a rough measurement and we'll point you toward the right option, often before we even schedule a visit. Reach the team at [(509) 224-3484](tel:+15092243484) or through [/#contact](/#contact).
+If you're not sure which window well cover types fit your situation, send us a photo and a rough measurement and we'll point you toward the right option, often before we even schedule a visit. Reach the team at [(509) 351-8404](tel:+15093518404) or through [/#contact](/#contact).
 
 ## Frequently Asked Questions
 
@@ -105,4 +105,4 @@ A good cover keeps out rain and snowmelt, which is most of what floods a well. B
 
 Most walk-on rated metal grate covers run $250-$500 installed, depending on the well's size and whether the frame needs any repair first. Custom or oversized wells can run higher. A standard flat or bubble polycarbonate cover, by comparison, typically costs $150-$350.
 
-Choosing among window well cover types comes down to matching the cover to how your well gets used and how Nebraska weather treats it. For local permit and code specifics on egress wells, the [City of Lincoln Building & Safety Department](https://lincoln.ne.gov/city/build/) is the authority of record, and the [Consumer Product Safety Commission's guidance on window well hazards](https://www.cpsc.gov) is a useful safety reference. If you'd rather skip the research and just get a straight answer for your well, Lincoln Egress Windows offers free written estimates across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland. Call (509) 224-3484 or fill out the form at [/#contact](/#contact).
+Choosing among window well cover types comes down to matching the cover to how your well gets used and how Nebraska weather treats it. For local permit and code specifics on egress wells, the [City of Lincoln Building & Safety Department](https://lincoln.ne.gov/city/build/) is the authority of record, and the [Consumer Product Safety Commission's guidance on window well hazards](https://www.cpsc.gov) is a useful safety reference. If you'd rather skip the research and just get a straight answer for your well, Lincoln Egress Windows offers free written estimates across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland. Call (509) 351-8404 or fill out the form at [/#contact](/#contact).

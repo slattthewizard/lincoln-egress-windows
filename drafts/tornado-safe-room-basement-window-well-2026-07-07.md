@@ -9,7 +9,7 @@ secondary_keywords: "basement egress window tornado, egress window well storm sa
 
 The siren goes off at 6:40 on a June evening and your family is already halfway down the basement stairs before you've had time to think. That's the right instinct. In Lincoln and across Southeast Nebraska, the basement is the default tornado shelter for most homes, and tornado shelter basement window well safety is worth thinking about before storm season, not during it. A code-compliant egress window doesn't make your basement a target for wind. It makes it a room you can get out of if the house above it gets damaged, and in a lot of Lincoln homes it's also what makes that basement bedroom legal to rent, finish, or sell.
 
-This isn't a scare piece. Basements are genuinely one of the safest places to be during a tornado warning, and nothing here changes that. The goal is to walk through what egress windows and window wells actually add to a basement shelter plan, what Nebraska code requires for basement bedrooms, and how to get your window well ready before the next warning instead of after. If you want a second opinion on your current setup, our crew offers free written estimates and a [24/7 line](tel:+15092243484) for anything urgent.
+This isn't a scare piece. Basements are genuinely one of the safest places to be during a tornado warning, and nothing here changes that. The goal is to walk through what egress windows and window wells actually add to a basement shelter plan, what Nebraska code requires for basement bedrooms, and how to get your window well ready before the next warning instead of after. If you want a second opinion on your current setup, our crew offers free written estimates and a [24/7 line](tel:+15093518404) for anything urgent.
 
 ## Why Nebraska Basements Are the Default Tornado Shelter
 
@@ -60,7 +60,7 @@ These numbers aren't arbitrary. They're sized so an adult in bulky clothing, or 
 
 **Mini-story:** A Seward homeowner, Priya Nagarajan, listed her house last fall with a finished basement bedroom that the listing described as a "non-conforming" fourth bedroom, because the original window was 16 inches wide, well under code. Her buyer's inspector flagged it, and the deal nearly fell through over a $150 permit and a $2,600 replacement window that could have been handled months earlier. She got it done in a week and closed on schedule, but it's a common story around here: [selling a house with a non-compliant basement bedroom](/blog/selling-house-non-compliant-basement-bedroom/) almost always costs the seller more in stress than the fix would have cost up front.
 
-If you're not sure whether your basement bedroom already meets code, our post on [what counts as a legal bedroom in Nebraska](/blog/what-counts-as-a-legal-bedroom-nebraska/) walks through the checklist, and our [IRC egress code requirements](/blog/irc-egress-window-code-requirements/) post has the full technical rundown. Give us a call at [(509) 224-3484](tel:+15092243484) if you'd rather just have someone measure it for you.
+If you're not sure whether your basement bedroom already meets code, our post on [what counts as a legal bedroom in Nebraska](/blog/what-counts-as-a-legal-bedroom-nebraska/) walks through the checklist, and our [IRC egress code requirements](/blog/irc-egress-window-code-requirements/) post has the full technical rundown. Give us a call at [(509) 351-8404](tel:+15093518404) if you'd rather just have someone measure it for you.
 
 ## Window Well Safety Checklist Before Storm Season
 

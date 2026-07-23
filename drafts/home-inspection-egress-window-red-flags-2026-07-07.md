@@ -23,7 +23,7 @@ Home inspectors aren't guessing when they flag a basement window. They're checki
 
 If a window fails any one of these, the inspector will note it, and most buyers' agents will ask for a credit, a repair, or a price reduction before they'll move forward.
 
-If you're mid-negotiation right now, don't wait on this. Call us at [(509) 224-3484](tel:+15092243484) or [request a free estimate](/#contact) and we'll tell you within a day whether your window is a quick fix or a full cut-in.
+If you're mid-negotiation right now, don't wait on this. Call us at [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact) and we'll tell you within a day whether your window is a quick fix or a full cut-in.
 
 ## The Egress Window Inspection Red Flags We See Most Often
 
@@ -85,7 +85,7 @@ Buyers in Crete and Seward have used all three approaches successfully. A seller
 
 The smartest move is pulling this red flag out of the equation before a buyer's inspector ever sees it. If your basement is listed with a bedroom, get the window and well checked against code before you put a sign in the yard.
 
-We do free written estimates for exactly this situation. If everything's fine, you've spent twenty minutes confirming it. If it's not, you have time to fix it on your schedule instead of a buyer's deadline. Reach out through [our contact page](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll get someone out to look at it.
+We do free written estimates for exactly this situation. If everything's fine, you've spent twenty minutes confirming it. If it's not, you have time to fix it on your schedule instead of a buyer's deadline. Reach out through [our contact page](/#contact) or call [(509) 351-8404](tel:+15093518404) and we'll get someone out to look at it.
 
 Selling a house with a basement bedroom that doesn't meet code can also affect how the room gets listed and appraised. Our post on [selling a house with a non-compliant basement bedroom](/blog/selling-house-non-compliant-basement-bedroom/) goes into the disclosure and pricing side of it in more detail.
 
@@ -101,7 +101,7 @@ Window falls are also a real safety concern the code is designed around, not jus
 
 An egress window red flag on a home inspection report feels bigger than it usually is. Most of what we see in Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland comes down to a well that needs replacing, a ladder that was never installed, or an opening that's a few inches short of code. Those are solvable in a matter of days, not a reason to walk away from a deal.
 
-If you've got an inspection report in hand or a closing date coming up fast, we can look at it and give you a straight answer on cost and timeline. Call [(509) 224-3484](tel:+15092243484) or [get a free written estimate](/#contact) and we'll help you get past this before it costs you the sale.
+If you've got an inspection report in hand or a closing date coming up fast, we can look at it and give you a straight answer on cost and timeline. Call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact) and we'll help you get past this before it costs you the sale.
 
 ## Frequently Asked Questions
 

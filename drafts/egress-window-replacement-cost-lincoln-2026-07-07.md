@@ -31,7 +31,7 @@ Every quote comes down to a handful of variables, and most Lincoln homeowners ar
 
 If you want to see a full cost breakdown by material and window type, our [egress window cost](/egress-window-cost/) page walks through pricing beyond just Lincoln jobs.
 
-If you're ready to get a real number for your house, [contact us](/#contact) or call (509) 224-3484 for a free written estimate. We measure your opening and foundation type before we quote, so the number you get is the number you pay.
+If you're ready to get a real number for your house, [contact us](/#contact) or call (509) 351-8404 for a free written estimate. We measure your opening and foundation type before we quote, so the number you get is the number you pay.
 
 ## Egress Window Replacement Cost by Project Type
 
@@ -61,7 +61,7 @@ In Crete, a young couple bought an older home with a basement bedroom that had a
 
 Three houses, three very different price tags, all inside a 30-minute drive of each other. That's why "how much does an egress window cost" almost never has a single answer, only a range tied to your specific foundation and opening.
 
-Not sure which category your house falls into? Call (509) 224-3484 and describe your basement. We can usually tell you which price bracket you're in before we even schedule a visit.
+Not sure which category your house falls into? Call (509) 351-8404 and describe your basement. We can usually tell you which price bracket you're in before we even schedule a visit.
 
 ## Egress Window Replacement Cost vs. New Cut-In Installation
 
@@ -103,7 +103,7 @@ You can't change your foundation type, but you do have some control over the fin
 
 **Avoid DIY on anything involving concrete cutting or the foundation wall.** Cutting a load-bearing wall wrong, or misjudging drainage slope, can turn a $5,000 job into a $12,000 repair. Electrical lines near window wells also need a licensed eye before anyone starts digging. This is one area where a professional quote genuinely protects your wallet, not just your safety.
 
-Ready to find out your real number? [Reach out through our contact page](/#contact) or call (509) 224-3484 anytime, including after hours if you're facing a closing deadline or an inspection notice. Estimates are free and written, with no pressure to book on the spot.
+Ready to find out your real number? [Reach out through our contact page](/#contact) or call (509) 351-8404 anytime, including after hours if you're facing a closing deadline or an inspection notice. Estimates are free and written, with no pressure to book on the spot.
 
 ## Frequently Asked Questions
 

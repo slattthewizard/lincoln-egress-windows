@@ -9,7 +9,7 @@ secondary_keywords: "egress window frame materials, vinyl egress window cost, wo
 
 A Lincoln basement stays around 55 degrees most of the year, but the window frame sitting in that foundation wall swings from 20 below to 95 above depending on the season. That swing is exactly why the vinyl vs wood egress window frames question matters more here than it does in milder states. Pick the wrong material and you could be recaulking, repainting, or replacing a frame years before you expected to.
 
-If you're planning a basement bedroom, finishing a lower level, or just [replacing a tired egress window](/egress-window-replacement-lincoln/) before it fails an inspection, the frame material is one of the first decisions you'll make. It affects the upfront price, how much maintenance you'll do every spring and fall, and how long the window seals tight against Nebraska's freeze-thaw cycles. We'll walk through both materials, show real cost numbers from Lincoln-area jobs, and help you land on the right call for your house. If you want a straight answer for your specific window before you read another word, call us at [(509) 224-3484](tel:+15092243484) or [reach out here](/#contact) and we'll give you a free written estimate.
+If you're planning a basement bedroom, finishing a lower level, or just [replacing a tired egress window](/egress-window-replacement-lincoln/) before it fails an inspection, the frame material is one of the first decisions you'll make. It affects the upfront price, how much maintenance you'll do every spring and fall, and how long the window seals tight against Nebraska's freeze-thaw cycles. We'll walk through both materials, show real cost numbers from Lincoln-area jobs, and help you land on the right call for your house. If you want a straight answer for your specific window before you read another word, call us at [(509) 351-8404](tel:+15093518404) or [reach out here](/#contact) and we'll give you a free written estimate.
 
 An egress window frame isn't just trim. It's a structural seal between your basement and the outside world, sitting below grade where it takes on soil moisture, snowmelt, and direct sun exposure all in the same week during a Nebraska spring. Lancaster County typically sees more than 100 freeze-thaw cycles a year, according to [National Weather Service climate data for the Lincoln area](https://www.weather.gov/oax/). Every one of those cycles pushes and pulls at the frame material.
 
@@ -77,7 +77,7 @@ For wood, that cycling shows up as expanding and contracting wood fibers, which 
 
 Neither risk is a dealbreaker, but both point to the same conclusion: whichever material you choose, seal quality and installation matter as much as the frame itself. A poorly sealed frame of either material will let water in during spring thaw, and that's when window wells flood most often. Good drainage around the well matters just as much as the frame material, no matter which one you pick.
 
-Want a second opinion on your existing frame before you decide what to replace it with? [Call (509) 224-3484](tel:+15092243484) and we'll take a look, no obligation.
+Want a second opinion on your existing frame before you decide what to replace it with? [Call (509) 351-8404](tel:+15093518404) and we'll take a look, no obligation.
 
 ## Real Installs: How Lincoln-Area Homeowners Chose Between Vinyl and Wood
 

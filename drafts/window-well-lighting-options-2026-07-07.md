@@ -11,7 +11,7 @@ Picture your basement bedroom at 9 p.m. with the lamp off. Can you actually see 
 
 A window well isn't just a hole in the ground that lets light into your basement during the day. Once someone is sleeping in that room, the well doubles as an emergency exit path, and code inspectors, appraisers, and future buyers all care whether that path is usable at night. Good lighting is a small upgrade that pays off in safety, resale value, and honestly, a basement bedroom that feels less like a bunker.
 
-In this guide we'll walk through the main window well lighting options available to Lincoln homeowners, what they cost, and how they fit into a legal basement bedroom setup. If your window well isn't up to code in the first place, lighting is the easy part; the harder question is whether the well and window meet egress requirements at all. If you're not sure, our team can take a look and give you a free written estimate. Call [(509) 224-3484](tel:+15092243484) or [reach out online](/#contact) and we'll walk the property with you.
+In this guide we'll walk through the main window well lighting options available to Lincoln homeowners, what they cost, and how they fit into a legal basement bedroom setup. If your window well isn't up to code in the first place, lighting is the easy part; the harder question is whether the well and window meet egress requirements at all. If you're not sure, our team can take a look and give you a free written estimate. Call [(509) 351-8404](tel:+15093518404) or [reach out online](/#contact) and we'll walk the property with you.
 
 ## Why Window Well Lighting Isn't Just Decorative
 
@@ -60,7 +60,7 @@ Here's a quick side-by-side to help you weigh the tradeoffs.
 
 Whatever you choose, pair it with a solid window well cover. A clear, snap-in cover keeps leaves and rain out of the well and protects the fixture without blocking emergency egress. We cover the different styles in our guide to [window well cover types](/blog/window-well-cover-types/).
 
-Not sure which option fits your well and budget? That's a normal question, and it's easier to answer once we've seen the well in person. Call [(509) 224-3484](tel:+15092243484) and we'll walk you through what makes sense for your specific setup, no pressure either way.
+Not sure which option fits your well and budget? That's a normal question, and it's easier to answer once we've seen the well in person. Call [(509) 351-8404](tel:+15093518404) and we'll walk you through what makes sense for your specific setup, no pressure either way.
 
 ## Real Basement Bedrooms Around Lincoln
 
@@ -70,7 +70,7 @@ Out in Waverly, a homeowner named Kyle had an old rusted window well that was le
 
 In Crete, a landlord named Dana was preparing a basement unit for a new tenant and needed the window well brought up to a standard she could defend if a housing inspector ever asked questions. She spent $380 on a new cover with an integrated motion-sensor light, on top of routine well maintenance. For rental properties specifically, lighting isn't just a nice touch, it's part of showing that the egress path is genuinely usable, not just technically present. Our [rental property egress inspection guide](/blog/rental-property-egress-window-inspection/) covers what else landlords should check.
 
-If you're planning a basement bedroom project and want lighting built into the estimate from the start, that's easier and usually cheaper than adding it after the fact. Give us a call at [(509) 224-3484](tel:+15092243484) and we'll include it in your written quote.
+If you're planning a basement bedroom project and want lighting built into the estimate from the start, that's easier and usually cheaper than adding it after the fact. Give us a call at [(509) 351-8404](tel:+15093518404) and we'll include it in your written quote.
 
 ## When to Call a Pro for Window Well Electrical Work
 

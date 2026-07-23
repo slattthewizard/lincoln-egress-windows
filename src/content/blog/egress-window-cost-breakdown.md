@@ -23,7 +23,7 @@ Two homeowners in Lincoln called about egress windows the same week last spring.
 
 That gap is exactly why you need a real egress window cost breakdown before you agree to any number a contractor gives you over the phone. The price swings on a handful of specific factors, and once you know what they are, a $2,000 job and a $9,000 job stop looking like a mystery.
 
-This guide walks through what actually moves the needle on cost, with real dollar figures from jobs around Lincoln, Waverly, Hickman, and Seward. By the end you'll know which category your project falls into and what to ask a contractor before you sign anything. If you'd rather just talk it through, call [(509) 224-3484](tel:+15092243484) and we'll walk your specific situation with you.
+This guide walks through what actually moves the needle on cost, with real dollar figures from jobs around Lincoln, Waverly, Hickman, and Seward. By the end you'll know which category your project falls into and what to ask a contractor before you sign anything. If you'd rather just talk it through, call [(509) 351-8404](tel:+15093518404) and we'll walk your specific situation with you.
 
 ## The Egress Window Cost Breakdown Starts With Your Project Type
 
@@ -75,7 +75,7 @@ A family in Hickman was finishing their basement to add a bedroom and home offic
 
 A landlord in Seward with a rental property needed to pass a tenant safety inspection after a code complaint. The egress window itself was fine, but the well was rusted through and had partially collapsed on one side. Straight well replacement with a new steel well and cover ran $950, done in a single day.
 
-In Beatrice, a couple selling their house found out during the home inspection that their finished basement bedroom had never had a legal egress window installed, something the previous owner never disclosed. With a closing deadline three weeks out, they needed the work done fast. Full cut-in with a vinyl-frame window and well came to $6,400, and it closed the gap that would have otherwise killed the sale or forced a price cut. If you're facing a similar deadline, call us at [(509) 224-3484](tel:+15092243484) or reach out through our [contact form](/#contact) and we'll prioritize a written estimate.
+In Beatrice, a couple selling their house found out during the home inspection that their finished basement bedroom had never had a legal egress window installed, something the previous owner never disclosed. With a closing deadline three weeks out, they needed the work done fast. Full cut-in with a vinyl-frame window and well came to $6,400, and it closed the gap that would have otherwise killed the sale or forced a price cut. If you're facing a similar deadline, call us at [(509) 351-8404](tel:+15093518404) or reach out through our [contact form](/#contact) and we'll prioritize a written estimate.
 
 ## DIY vs. Professional Work: Where the Cost Breakdown Changes
 
@@ -97,7 +97,7 @@ When you're comparing quotes from different contractors, make sure you're compar
 
 Ask about the window itself too. Vinyl frames, wood frames, and different glass packages all carry different price tags, and a low bid sometimes hides a builder-grade window that won't hold up to Nebraska winters as well as a heavier unit would. A clear, itemized written estimate protects you from that kind of surprise a lot better than a verbal number over the phone ever will.
 
-If you're planning a basement bedroom and want to understand the full cost picture before you commit, our post on [basement bedroom egress cost](/blog/basement-bedroom-egress-cost/) goes deeper into that specific scenario. When you're ready for real numbers on your house, call [(509) 224-3484](tel:+15092243484) or fill out our [contact form](/#contact) and we'll get a written estimate scheduled.
+If you're planning a basement bedroom and want to understand the full cost picture before you commit, our post on [basement bedroom egress cost](/blog/basement-bedroom-egress-cost/) goes deeper into that specific scenario. When you're ready for real numbers on your house, call [(509) 351-8404](tel:+15093518404) or fill out our [contact form](/#contact) and we'll get a written estimate scheduled.
 
 ## Frequently Asked Questions
 

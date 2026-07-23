@@ -11,7 +11,7 @@ A buyer's inspector walks into a finished Lincoln basement, points at a small sl
 
 If you're staring at a small basement window wondering whether it "counts," you're not alone. This is one of the most common questions we hear from homeowners across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland. Below we'll walk through exactly what separates the two, what Nebraska code requires, and what it actually costs to fix a window that doesn't measure up.
 
-If you already suspect your basement window won't pass, skip ahead and [get a free written estimate](/#contact) or call (509) 224-3484. It takes ten minutes to find out where you stand.
+If you already suspect your basement window won't pass, skip ahead and [get a free written estimate](/#contact) or call (509) 351-8404. It takes ten minutes to find out where you stand.
 
 ## Egress Window vs Basement Window: What Each One Actually Is
 
@@ -60,7 +60,7 @@ A few things push the price around within those ranges: soil type and how much e
 
 Marcus Tibbetts, who owns a rental duplex in Hickman, learned the hard way that a swap isn't the same as compliance. He'd paid a handyman to replace a cracked basement window with a nicer vinyl unit for about $650, figuring that solved the "bedroom" issue his property manager flagged. It didn't; the new window was the same undersized opening, just newer glass. He called us six months later after a tenant complaint, and we ended up doing a full cut-in at $5,900 to make the room legally rentable as a bedroom.
 
-Not sure which category your situation falls into? [Call (509) 224-3484](tel:+15092243484) or send us photos and rough measurements through our contact page and we'll tell you straight, no upsell, whether you need a swap or a cut-in.
+Not sure which category your situation falls into? [Call (509) 351-8404](tel:+15093518404) or send us photos and rough measurements through our contact page and we'll tell you straight, no upsell, whether you need a swap or a cut-in.
 
 ## Selling a House With a Non-Compliant Basement Bedroom
 
@@ -80,7 +80,7 @@ Our advice, plainly: if the job requires cutting concrete, altering a load-beari
 
 There's also the permit and inspection side, which trips up plenty of DIYers in Ashland and Crete who assume nobody checks. Lincoln and Lancaster County require a permit for foundation cuts and window well installs, and the work gets inspected before it's signed off. Skip the permit and you can run into trouble later at resale, when a title company or buyer's inspector asks for the paperwork and there isn't any.
 
-We offer free written estimates and can usually tell you over the phone whether your project is a simple swap or a full cut-in before we ever step on your property. [Reach out here](/#contact) or call [(509) 224-3484](tel:+15092243484), we run a 24/7 line for anyone facing an inspection deadline or a closing date that's coming up fast.
+We offer free written estimates and can usually tell you over the phone whether your project is a simple swap or a full cut-in before we ever step on your property. [Reach out here](/#contact) or call [(509) 351-8404](tel:+15093518404), we run a 24/7 line for anyone facing an inspection deadline or a closing date that's coming up fast.
 
 ## Frequently Asked Questions
 

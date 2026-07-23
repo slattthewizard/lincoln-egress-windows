@@ -11,7 +11,7 @@ Two inches of rain fell on Lincoln overnight, and by morning the window well out
 
 The good news: a window well drain clogged with debris is usually fixable in an afternoon, and keeping it clear afterward takes maybe ten minutes a season. The bad news is that if you ignore it, that standing water doesn't just sit there. It seeps around the window seal, pools against your foundation, and can eventually leak into the room you were counting on as a legal bedroom.
 
-This guide walks through why window well drains clog, how to clear one yourself, when the problem is bigger than a shop-vac can fix, and what it costs to get it done right in Lincoln and the surrounding towns. If your well is already full of water and you don't want to wait, call us at [(509) 224-3484](tel:+15092243484) and we'll walk you through it over the phone or send someone out.
+This guide walks through why window well drains clog, how to clear one yourself, when the problem is bigger than a shop-vac can fix, and what it costs to get it done right in Lincoln and the surrounding towns. If your well is already full of water and you don't want to wait, call us at [(509) 351-8404](tel:+15093518404) and we'll walk you through it over the phone or send someone out.
 
 ## Why a Window Well Drain Clogged in the First Place
 
@@ -91,7 +91,7 @@ There's also the legal angle to keep in mind. If that window well serves a basem
 
 **Mini-story:** A seller in Crete had a home inspection flag a flooded window well right before closing. The buyer's inspector couldn't tell if it was a simple clog or a structural drainage failure, and the deal stalled for a week. We got out there, found a crushed drain pipe from an old tree root, fixed it for $950, and the sale closed on schedule.
 
-If you're already past the point of a garden hose and a shop vac, or you just don't want to deal with digging around your foundation, [reach out to our team](/#contact) or call [(509) 224-3484](tel:+15092243484). We give free written estimates and can usually tell you over the phone whether it's a quick fix or something bigger.
+If you're already past the point of a garden hose and a shop vac, or you just don't want to deal with digging around your foundation, [reach out to our team](/#contact) or call [(509) 351-8404](tel:+15093518404). We give free written estimates and can usually tell you over the phone whether it's a quick fix or something bigger.
 
 ## Frequently Asked Questions
 

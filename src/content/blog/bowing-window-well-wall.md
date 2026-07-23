@@ -25,7 +25,7 @@ Window well wall bowing is one of the clearest signs that soil pressure, rust, o
 
 The good news is that a bowing wall almost never means your foundation is in danger. It usually means the well itself has failed and needs to be replaced or reinforced. Here's what causes it, how to tell how bad it is, and what it actually costs to fix in Southeast Nebraska.
 
-If your well wall is already curved more than an inch or two, don't wait on this one. [Contact us](/#contact) or call [(509) 224-3484](tel:+15092243484) for a free look and a written estimate before the situation gets worse.
+If your well wall is already curved more than an inch or two, don't wait on this one. [Contact us](/#contact) or call [(509) 351-8404](tel:+15093518404) for a free look and a written estimate before the situation gets worse.
 
 ## What Causes Window Well Wall Bowing
 
@@ -96,7 +96,7 @@ What's not a good DIY project:
 - Straightening or reinforcing a wall that's already bowed more than an inch, since that can hide a cracked foundation wall behind it
 - Anything that involves cutting concrete or altering the window opening
 
-If your well wall is bowing enough to touch or bind the window, or if you see cracking in the foundation wall itself, stop and call a professional. That's not a place to save money on labor, because a mistake there can turn a well repair into a foundation repair. Call [(509) 224-3484](tel:+15092243484) any time, including for urgent inspections before a home sale deadline.
+If your well wall is bowing enough to touch or bind the window, or if you see cracking in the foundation wall itself, stop and call a professional. That's not a place to save money on labor, because a mistake there can turn a well repair into a foundation repair. Call [(509) 351-8404](tel:+15093518404) any time, including for urgent inspections before a home sale deadline.
 
 A licensed contractor will also know how deep to dig without undermining the footing next to the well, how to compact new backfill correctly, and how to tie the new well back into the foundation so it doesn't just bow again in a year or two. That last part is where a lot of cut-rate repairs fall short.
 

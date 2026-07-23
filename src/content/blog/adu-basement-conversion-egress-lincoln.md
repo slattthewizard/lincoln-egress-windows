@@ -17,13 +17,13 @@ faq:
   - question: "Do I need city approval before starting a basement ADU conversion?"
     answer: "Yes. Zoning eligibility and building permits both need to be confirmed before construction starts. Contact Lincoln Building & Safety and the Planning Department early, since ADU rules depend on your specific lot and zoning district."
   - question: "Can I use an existing basement window instead of cutting a new opening?"
-    answer: "Sometimes. If the existing window is in a good location and can be enlarged or swapped to meet code size and sill height, that's almost always cheaper than cutting a brand-new opening elsewhere in the foundation. A contractor can measure your existing opening to confirm whether it qualifies. Ready to find out what your basement ADU actually needs for egress? Contact Lincoln Egress Windows or call (509) 224-3484 for a free written estimate."
+    answer: "Sometimes. If the existing window is in a good location and can be enlarged or swapped to meet code size and sill height, that's almost always cheaper than cutting a brand-new opening elsewhere in the foundation. A contractor can measure your existing opening to confirm whether it qualifies. Ready to find out what your basement ADU actually needs for egress? Contact Lincoln Egress Windows or call (509) 351-8404 for a free written estimate."
 ---
 Picture this: you've priced out flooring, cabinets, and a mini-split for a basement accessory dwelling unit, but you haven't priced the one thing that decides whether the whole project is even legal. That's the egress window.
 
 An ADU basement conversion egress window Lincoln project isn't optional trim work. It's the requirement that separates a basement apartment you can legally rent, sell, or hand to a family member from a finished room the city will never sign off on. Lincoln's zoning code has opened the door wider to accessory dwelling units in recent years, letting more homeowners add a basement unit, a garage suite, or a backyard cottage on their existing lot. But zoning approval and building code approval are two different fights, and egress is where a lot of ADU basement projects stall.
 
-If you're already penciling out a basement ADU and want a straight answer on egress before you commit to a layout, [get a free written estimate](/#contact) or call **(509) 224-3484**. We'll tell you what your foundation and floor plan actually require, not what a contractor guesses over the phone.
+If you're already penciling out a basement ADU and want a straight answer on egress before you commit to a layout, [get a free written estimate](/#contact) or call **(509) 351-8404**. We'll tell you what your foundation and floor plan actually require, not what a contractor guesses over the phone.
 
 ## What Counts as an ADU Basement Conversion in Lincoln
 
@@ -101,7 +101,7 @@ Cutting a new egress opening through a foundation wall is not that kind of job. 
 
 Our rule of thumb stays the same for ADU projects as it does for any egress job: if it involves cutting concrete, altering anything structural, or working near electrical lines by the window well, that's a licensed professional's job. If you want the longer version of why, read [DIY egress window installation risks](/blog/diy-egress-window-installation-risks/).
 
-Planning a basement ADU and want the egress piece handled right the first time? [Get your free written estimate](/#contact) or call **(509) 224-3484**. We work across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and every quote is written, not verbal.
+Planning a basement ADU and want the egress piece handled right the first time? [Get your free written estimate](/#contact) or call **(509) 351-8404**. We work across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and every quote is written, not verbal.
 
 ## Frequently Asked Questions
 
@@ -121,4 +121,4 @@ Yes. Zoning eligibility and building permits both need to be confirmed before co
 
 Sometimes. If the existing window is in a good location and can be enlarged or swapped to meet code size and sill height, that's almost always cheaper than cutting a brand-new opening elsewhere in the foundation. A contractor can measure your existing opening to confirm whether it qualifies.
 
-Ready to find out what your basement ADU actually needs for egress? [Contact Lincoln Egress Windows](/#contact) or call **(509) 224-3484** for a free written estimate.
+Ready to find out what your basement ADU actually needs for egress? [Contact Lincoln Egress Windows](/#contact) or call **(509) 351-8404** for a free written estimate.

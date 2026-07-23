@@ -13,7 +13,7 @@ The egress window minimum size requirements in Nebraska come from the Internatio
 
 This guide focuses on the part most articles skip: how to actually measure your window, which common sizes pass and which ones almost always fail, and what to do if yours comes up short. If you want the full legal code text with citations, our [IRC egress window code requirements](/blog/irc-egress-window-code-requirements/) post covers that in detail. Here, we're sticking to the tape measure and the real numbers.
 
-If you already know your window is too small, don't wait for a closing deadline to deal with it. [Contact us](/#contact) or call (509) 224-3484 for a free written estimate, and we'll tell you exactly what size you need before you spend a dollar.
+If you already know your window is too small, don't wait for a closing deadline to deal with it. [Contact us](/#contact) or call (509) 351-8404 for a free written estimate, and we'll tell you exactly what size you need before you spend a dollar.
 
 ## Egress Window Minimum Size Requirements: The Three Numbers That Matter
 
@@ -67,7 +67,7 @@ In Ashland, a young family finishing their basement ordered a window online usin
 
 Three different sizing mistakes, three different price tags, and all of them avoidable with a tape measure and the right math before ordering.
 
-Not sure if your current window clears the bar? Call (509) 224-3484 and we'll walk you through the measurement over the phone before you commit to anything.
+Not sure if your current window clears the bar? Call (509) 351-8404 and we'll walk you through the measurement over the phone before you commit to anything.
 
 ## Sill Height, Window Wells, and Other Size Rules That Trip People Up
 
@@ -101,7 +101,7 @@ Either way, get the net clear opening measured and confirmed in writing before y
 
 Lincoln-Lancaster County's [Building and Safety Department](https://www.lincoln.ne.gov/City/Departments/Building-and-Safety) publishes the local permit process and inspection requirements if you want to confirm sizing rules directly with the city. Egress sizing also ties into basic fire and life-safety guidance from agencies like the [U.S. Fire Administration](https://www.usfa.fema.gov), which is part of why the minimums exist in the first place.
 
-Ready to get your window measured properly? [Reach out through our contact page](/#contact) or call (509) 224-3484. We measure every opening and well before quoting, so you know the number works before you commit.
+Ready to get your window measured properly? [Reach out through our contact page](/#contact) or call (509) 351-8404. We measure every opening and well before quoting, so you know the number works before you commit.
 
 ## Frequently Asked Questions
 

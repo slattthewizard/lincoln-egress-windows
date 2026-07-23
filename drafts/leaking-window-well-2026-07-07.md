@@ -11,7 +11,7 @@ You checked the basement after last night's storm and there it was again: a pudd
 
 This is one of the most common calls we get in Lincoln and the surrounding towns, especially after a heavy spring or summer downpour. A window well leaking after rain isn't just an inconvenience. Left alone, it can warp flooring, feed mold behind drywall, and in older homes, put real pressure on the foundation wall itself. The good news is that most leaks trace back to one of five causes, and several of them cost less to fix than a new phone.
 
-Let's walk through why it's happening, what you can try yourself this weekend, and when it's smarter to call someone who does this every day. If you want a second opinion right now, [contact us](/#contact) or call [(509) 224-3484](tel:+15092243484) for a free written estimate. We cover Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland.
+Let's walk through why it's happening, what you can try yourself this weekend, and when it's smarter to call someone who does this every day. If you want a second opinion right now, [contact us](/#contact) or call [(509) 351-8404](tel:+15093518404) for a free written estimate. We cover Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland.
 
 ## The 5 Most Common Reasons a Window Well Leaks After Rain
 
@@ -53,7 +53,7 @@ Not every leaking window well needs a contractor. If your well is structurally s
 
 If you've tried these and water is still getting in, or if you can see rust-through, bowing, or cracks in the well wall itself, that's your signal to stop DIYing and call a professional. Cutting concrete, repairing a foundation crack, or working near any wiring that runs close to the window well isn't a weekend project, and getting it wrong can turn a $600 fix into a $6,000 one. When it's time for a proper fix, our [window well installation](/window-well-installation-lincoln/) service handles everything from a simple replacement to a full regrade and drain tie-in.
 
-Ready to have someone take a look? [Get a free written estimate](/#contact) or call [(509) 224-3484](tel:+15092243484) any time, including for closing-deadline inspections.
+Ready to have someone take a look? [Get a free written estimate](/#contact) or call [(509) 351-8404](tel:+15093518404) any time, including for closing-deadline inspections.
 
 ## When It's More Than a Leak
 
@@ -105,4 +105,4 @@ Simple fixes like clearing a drain or replacing a cover run $150-$600. A full wi
 
 Sometimes, but not usually. Most leaks are drainage or cover issues that have nothing to do with the foundation. The signs to watch for are a visibly bowing well wall, cracking mortar near the well, or soil that keeps sinking no matter how much you refill it, since those point to structural movement rather than a simple leak.
 
-Still seeing water after a storm? [Reach out here](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll get you a free written estimate, no obligation.
+Still seeing water after a storm? [Reach out here](/#contact) or call [(509) 351-8404](tel:+15093518404) and we'll get you a free written estimate, no obligation.

@@ -17,13 +17,13 @@ faq:
   - question: "Does winter weather slow down egress window installation in Nebraska?"
     answer: "Yes. Frozen ground makes excavation harder and slows concrete curing, which can add several days to a week onto a project compared to a spring or summer install. It's still doable, just plan extra buffer time and read our tips on winter egress window installation before scheduling."
   - question: "How long does the permit process add to my egress window timeline?"
-    answer: "In Lincoln and Lancaster County, permit review often takes just a few business days if your application is complete, but scheduling the final inspection around your contractor's calendar can add another week. Ask your contractor to build inspection scheduling into your quoted timeline up front. Ready to get a real date on the calendar instead of a guess? Reach out here or call (509) 224-3484 for a free written estimate that includes an honest timeline for your specific home."
+    answer: "In Lincoln and Lancaster County, permit review often takes just a few business days if your application is complete, but scheduling the final inspection around your contractor's calendar can add another week. Ask your contractor to build inspection scheduling into your quoted timeline up front. Ready to get a real date on the calendar instead of a guess? Reach out here or call (509) 351-8404 for a free written estimate that includes an honest timeline for your specific home."
 ---
 Carla in Hickman blocked off three weeks of vacation days for her egress window project. She used four, mostly waiting on the city inspector, even though her crew finished the physical cut-in and $6,800 window well install in three working days. That's the honest range: a straightforward replacement in an existing opening can wrap up in a single day, while a full cut-in with a new window well often runs two to four days of hands-on work stretched across one to three weeks once you count permits, concrete curing, and backfill settling.
 
 If you're asking how long does egress window installation take because you've got a closing date, a tenant move-in, or a basement bedroom you want finished before winter, the honest answer is "it depends on which kind of job you need." Below we'll break down both paths hour by hour, show you what actually slows a Lincoln-area project down, and give you the numbers to plan around instead of guess at. If you already know you need a full [egress window installation in Lincoln](/egress-window-installation-lincoln/), the timelines below apply directly to your project.
 
-Need a firm date on your calendar? [Contact our team](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll walk you through your specific opening, soil, and permit situation before you commit to a timeline.
+Need a firm date on your calendar? [Contact our team](/#contact) or call [(509) 351-8404](tel:+15093518404) and we'll walk you through your specific opening, soil, and permit situation before you commit to a timeline.
 
 ## The Short Answer: Egress Window Installation Timelines by Project Type
 
@@ -122,4 +122,4 @@ Yes. Frozen ground makes excavation harder and slows concrete curing, which can 
 
 In Lincoln and Lancaster County, permit review often takes just a few business days if your application is complete, but scheduling the final inspection around your contractor's calendar can add another week. Ask your contractor to build inspection scheduling into your quoted timeline up front.
 
-Ready to get a real date on the calendar instead of a guess? [Reach out here](/#contact) or call [(509) 224-3484](tel:+15092243484) for a free written estimate that includes an honest timeline for your specific home.
+Ready to get a real date on the calendar instead of a guess? [Reach out here](/#contact) or call [(509) 351-8404](tel:+15093518404) for a free written estimate that includes an honest timeline for your specific home.

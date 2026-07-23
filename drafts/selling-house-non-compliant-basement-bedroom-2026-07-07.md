@@ -17,7 +17,7 @@ A basement bedroom without a proper egress window isn't just a paperwork technic
 
 When a bedroom lacks a code-sized escape window, three things tend to happen close together. The appraiser downgrades the bedroom count, which lowers the appraised value. The buyer's lender may ask for the egress issue to be fixed as a condition of the loan. And your listing description, if it advertised "4 bedrooms," now looks inaccurate to a buyer's agent who did the math.
 
-None of that means your sale falls apart. It means you need a plan, and the earlier you build one, the fewer surprises you'll get at the closing table. If you want to talk through your specific basement and timeline, call [(509) 224-3484](tel:+15092243484) or reach out through our [contact page](/#contact) before your first showing, not after your first offer.
+None of that means your sale falls apart. It means you need a plan, and the earlier you build one, the fewer surprises you'll get at the closing table. If you want to talk through your specific basement and timeline, call [(509) 351-8404](tel:+15093518404) or reach out through our [contact page](/#contact) before your first showing, not after your first offer.
 
 ## What Actually Makes a Basement Bedroom Legal in Lincoln
 
@@ -56,7 +56,7 @@ There's no single right answer here. What's right depends on your timeline, your
 
 **Dave Wozniak in Hickman** went with option two. He disclosed the basement bedroom's window issue up front, listed the home priced as a 3-bedroom with a den, and took an offer $8,000 under what a compliant 4-bedroom would have fetched. It sold in nine days with zero renegotiation, which he preferred over gambling on a buyer accepting a fix-at-close deal.
 
-If you're weighing these options and want a same-day quote on what a fix would actually cost for your specific basement, call [(509) 224-3484](tel:+15092243484) or use our [contact form](/#contact). We do free written estimates, and knowing the real number often makes the fix-vs-disclose decision a lot easier.
+If you're weighing these options and want a same-day quote on what a fix would actually cost for your specific basement, call [(509) 351-8404](tel:+15093518404) or use our [contact form](/#contact). We do free written estimates, and knowing the real number often makes the fix-vs-disclose decision a lot easier.
 
 ## What Fixing It Costs vs What Leaving It Non-Compliant Costs
 
@@ -106,4 +106,4 @@ Yes, this happens regularly. Appraisers follow the same egress standards inspect
 
 You can market it as a non-conforming bonus room, and many sellers do exactly that. Just make sure your listing description, MLS bedroom count, and disclosure form all match, since a closet and a bed in the photos will contradict a "den" label fast.
 
-If you're getting ready to list and want to know exactly where your basement bedroom stands, our [home inspection egress window red flags](/blog/home-inspection-egress-window-red-flags/) post covers the specific things inspectors check, and our [basement bedroom egress cost](/blog/basement-bedroom-egress-cost/) breakdown can help you budget before you talk to your agent. For a free written estimate on your specific window and well, call [(509) 224-3484](tel:+15092243484) or reach out through our [contact page](/#contact). We work throughout Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and we can usually get eyes on your basement within a few days, not weeks.
+If you're getting ready to list and want to know exactly where your basement bedroom stands, our [home inspection egress window red flags](/blog/home-inspection-egress-window-red-flags/) post covers the specific things inspectors check, and our [basement bedroom egress cost](/blog/basement-bedroom-egress-cost/) breakdown can help you budget before you talk to your agent. For a free written estimate on your specific window and well, call [(509) 351-8404](tel:+15093518404) or reach out through our [contact page](/#contact). We work throughout Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and we can usually get eyes on your basement within a few days, not weeks.

@@ -11,7 +11,7 @@ Three inches of snowmelt on top of two inches of spring rain in 24 hours. That c
 
 This is a prevention guide, not an emergency one. If water is pooling against your glass right now, stop reading this and go bail it out, then check our [flooded window well guide](/blog/flooded-window-well/) for what to do in the next hour. If you've got a few weeks before storm season really kicks in, this is the checklist that keeps you off that page entirely.
 
-Four things cause almost every spring flooding call we get: bad grading, clogged gutters and downspouts, a dead or silted-up drain, and a missing or cracked cover. All four are checkable in an afternoon, and three of them are cheap enough to fix yourself. If you'd rather have someone walk your property and flag the risks before you spend a weekend on it, [reach out to our team](/#contact) or call [(509) 224-3484](tel:+15092243484) for a free written estimate.
+Four things cause almost every spring flooding call we get: bad grading, clogged gutters and downspouts, a dead or silted-up drain, and a missing or cracked cover. All four are checkable in an afternoon, and three of them are cheap enough to fix yourself. If you'd rather have someone walk your property and flag the risks before you spend a weekend on it, [reach out to our team](/#contact) or call [(509) 351-8404](tel:+15093518404) for a free written estimate.
 
 ## Why Spring Is Prime Time for Window Well Flooding
 
@@ -59,7 +59,7 @@ In Ashland, the Kowalczyk family had textbook bad grading. Their yard sloped gen
 
 Renata in Beatrice called us in early March after noticing her window well cover had cracked over the winter. Rather than wait for it to fail during a storm, she had us swap it for a new secured cover along with a downspout extension on the closest gutter. Combined cost was $310, and it's the kind of preventive spend that's easy to skip until the storm that makes you regret skipping it.
 
-If any of these situations sound like your place, get ahead of it. [Contact us](/#contact) or call [(509) 224-3484](tel:+15092243484) and we can usually tell within one visit whether you need a quick fix or something more involved.
+If any of these situations sound like your place, get ahead of it. [Contact us](/#contact) or call [(509) 351-8404](tel:+15093518404) and we can usually tell within one visit whether you need a quick fix or something more involved.
 
 ## Prevention vs. Emergency Repair: What Each Approach Costs
 

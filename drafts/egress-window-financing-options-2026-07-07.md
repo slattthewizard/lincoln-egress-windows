@@ -9,7 +9,7 @@ secondary_keywords: "egress window financing options, finance egress window inst
 
 A full egress window cut-in in Lincoln runs $5,500 to $9,500 once you add the well and finish work. That's not pocket change, and it's why so many homeowners ask about egress window financing before they ask about anything else. The good news: you have more options than you probably think, and none of them require you to drain your savings account in one shot.
 
-This guide walks through the real financing routes Lincoln homeowners use to pay for egress window work, from home equity loans to contractor payment plans to plain old credit cards. We'll also cover what each option actually costs you over time, because the lowest monthly payment isn't always the cheapest choice. If you want exact numbers for your project before you start shopping for a loan, call <a href="tel:+15092243484">(509) 224-3484</a> or <a href="/#contact">request a free written estimate</a> and get a real quote to take to your lender.
+This guide walks through the real financing routes Lincoln homeowners use to pay for egress window work, from home equity loans to contractor payment plans to plain old credit cards. We'll also cover what each option actually costs you over time, because the lowest monthly payment isn't always the cheapest choice. If you want exact numbers for your project before you start shopping for a loan, call <a href="tel:+15093518404">(509) 351-8404</a> or <a href="/#contact">request a free written estimate</a> and get a real quote to take to your lender.
 
 ## Egress Window Financing Options in Lincoln: Where to Start
 
@@ -37,7 +37,7 @@ Personal loans from a bank, credit union, or online lender typically fund in a f
 
 Renee owns a rental duplex in Hickman and needed to add a legal egress window to a basement bedroom before she could list it for rent again. She took out a $4,200 personal loan through her credit union at a fixed rate, paid off over three years. Because the loan wasn't tied to the house, she didn't have to worry about closing costs or an appraisal eating into her timeline, and she had the unit rented within six weeks. If you're in a similar spot, our guide on <a href="/blog/rental-property-egress-window-inspection/">rental property egress window inspections</a> covers what inspectors and lenders look for.
 
-Get a <a href="/#contact">free written estimate</a> first if you're leaning toward a personal loan. Most lenders will ask for a contractor quote as part of the application, and having one ready speeds things up. Call <a href="tel:+15092243484">(509) 224-3484</a> and we'll get you a number the same week.
+Get a <a href="/#contact">free written estimate</a> first if you're leaning toward a personal loan. Most lenders will ask for a contractor quote as part of the application, and having one ready speeds things up. Call <a href="tel:+15093518404">(509) 351-8404</a> and we'll get you a number the same week.
 
 ## Contractor Payment Plans: Financing Through Your Installer
 
@@ -78,7 +78,7 @@ If you're weighing whether to finance a full cut-in versus a simpler in-opening 
 
 Financing is only as good as the estimate behind it. Whether you're headed to your credit union, applying for a HELOC, or comparing a contractor payment plan, start with a free written estimate so you're borrowing the right amount, not guessing. We serve Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and every estimate is free with no obligation.
 
-Call <a href="tel:+15092243484">(509) 224-3484</a> or reach out through our <a href="/#contact">contact page</a> and we'll get you a firm number this week.
+Call <a href="tel:+15093518404">(509) 351-8404</a> or reach out through our <a href="/#contact">contact page</a> and we'll get you a firm number this week.
 
 ## Frequently Asked Questions
 

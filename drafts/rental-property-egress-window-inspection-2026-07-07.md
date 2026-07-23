@@ -38,7 +38,7 @@ Landlords sometimes assume egress rules are a new-construction issue. In practic
 
 The consequences of failing stack up fast. A cited basement bedroom can lose its legal status, which means you can't advertise or charge rent for it as a bedroom. Some cities also issue fines for occupied non-compliant space, and your liability exposure goes up sharply if a fire or emergency happens and a tenant couldn't get out.
 
-If you manage a rental in Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland and you're not sure your basement bedroom would pass today, it's worth a phone call before it's a problem. Reach our team at [tel:+15092243484](tel:+15092243484) or through [/#contact](/#contact) for a free written estimate on what it would take to bring a window up to code.
+If you manage a rental in Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland and you're not sure your basement bedroom would pass today, it's worth a phone call before it's a problem. Reach our team at [tel:+15093518404](tel:+15093518404) or through [/#contact](/#contact) for a free written estimate on what it would take to bring a window up to code.
 
 ## What a Rental Property Egress Window Inspection Checks, Item by Item
 
@@ -89,7 +89,7 @@ Swapping a window sash in an opening that's already the right size is a project 
 
 If your project involves cutting concrete, enlarging an existing opening, or working anywhere near an electrical panel or buried line close to the window well, stop and call a licensed contractor. A rental property egress window inspection that finds amateur concrete work or an unpermitted structural change tends to cause more headaches than the original problem, and it can put your rental license at risk. It's also worth remembering that a botched egress cut can affect the foundation's structural integrity, which is not a DIY-recoverable mistake.
 
-We offer free written estimates and a 24/7 line for landlords facing an inspection deadline or a closing date. Call [tel:+15092243484](tel:+15092243484) or reach out through [/#contact](/#contact) and we'll tell you honestly whether your situation needs a full cut-in or just a repair.
+We offer free written estimates and a 24/7 line for landlords facing an inspection deadline or a closing date. Call [tel:+15093518404](tel:+15093518404) or reach out through [/#contact](/#contact) and we'll tell you honestly whether your situation needs a full cut-in or just a repair.
 
 A compliant egress window isn't just about passing one inspection. It's about protecting the rent you can legally charge for that bedroom, keeping your liability exposure down, and avoiding a scramble when a tenant complains, a lender orders an appraisal, or you decide to sell. Landlords who get ahead of it, checking egress compliance the same way they check smoke detectors and furnace filters, rarely get caught off guard.
 

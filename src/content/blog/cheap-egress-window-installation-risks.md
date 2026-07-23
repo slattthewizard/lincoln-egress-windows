@@ -23,7 +23,7 @@ A Lincoln homeowner got three quotes for a basement bedroom egress window. Two l
 
 If you're comparing egress window quotes in Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland right now, this is worth ten minutes before you sign anything. We'll walk through what actually drives price differences, three real situations from around the area, and how to tell a fair bid from a corner-cutting one.
 
-Not sure your current quote holds up? [Contact us](/#contact) or call [(509) 224-3484](tel:+15092243484) for a free written estimate, and we'll tell you straight whether a number looks right.
+Not sure your current quote holds up? [Contact us](/#contact) or call [(509) 351-8404](tel:+15093518404) for a free written estimate, and we'll tell you straight whether a number looks right.
 
 ## What Cheap Egress Window Installation Risks Really Look Like
 
@@ -97,7 +97,7 @@ If a quote comes in dramatically below these ranges, it's worth asking exactly w
 
 Concrete cutting, foundation waterproofing, and any work near an existing electrical run in a window well is not a do-it-yourself weekend project. If a contractor suggests skipping the permit "to save time," or you're tempted to handle the concrete work yourself, stop and call a licensed pro instead. A misjudged cut or a bad seal can mean structural repair costs far beyond the original job, and it can put a family member at risk during an actual emergency exit.
 
-Ready to compare an accurate, itemized quote against what you've been offered? [Reach out through our contact form](/#contact) or call [(509) 224-3484](tel:+15092243484) any time, including for urgent inspection deadlines. We serve Lincoln and Lancaster, Seward, Saline, and Gage counties, and every estimate is written and free.
+Ready to compare an accurate, itemized quote against what you've been offered? [Reach out through our contact form](/#contact) or call [(509) 351-8404](tel:+15093518404) any time, including for urgent inspection deadlines. We serve Lincoln and Lancaster, Seward, Saline, and Gage counties, and every estimate is written and free.
 
 Check out our full [egress window installation services in Lincoln](/egress-window-installation-lincoln/) or get exact numbers with our [egress window cost guide](/egress-window-cost/) before you make a final call on any bid.
 

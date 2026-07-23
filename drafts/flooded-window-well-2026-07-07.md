@@ -11,7 +11,7 @@ Six inches of rain in one night and now there's a brown puddle creeping across y
 
 This happens more than most Lincoln homeowners realize. A window well is basically a hole in the ground next to your foundation, and if the drainage underneath it fails or the grading around it is off, that hole fills up like a bucket. Once it overflows the rim or pushes against the window seal, the water goes exactly where you don't want it.
 
-Below is what to do in the first hour, what causes the problem, and the fixes that keep it from becoming a repeat event. If the water is rising fast and you can't get ahead of it, call us at [(509) 224-3484](tel:+15092243484) and we'll walk you through it or get someone out to you.
+Below is what to do in the first hour, what causes the problem, and the fixes that keep it from becoming a repeat event. If the water is rising fast and you can't get ahead of it, call us at [(509) 351-8404](tel:+15093518404) and we'll walk you through it or get someone out to you.
 
 ## Emergency Fixes for Window Well Flooding Basement Water Right Now
 
@@ -93,7 +93,7 @@ If the drain pipe underneath the well has collapsed or was never connected to an
 
 Anything involving concrete cutting for a new drain tie-in, or work near electrical panels and outlets in a flooded basement, is a job for a licensed contractor. The [EPA's guidance on cleaning up after water damage](https://www.epa.gov/mold/mold-cleanup-your-home-after-disaster) is worth a read too, since standing water that sits more than 24 to 48 hours creates a real mold risk regardless of what caused the flood.
 
-We offer free written estimates and can usually tell within one visit whether you're looking at a $150 drain clearing or a full well rebuild. Call [(509) 224-3484](tel:+15092243484) or [request an estimate](/#contact) and we'll give you a straight answer either way.
+We offer free written estimates and can usually tell within one visit whether you're looking at a $150 drain clearing or a full well rebuild. Call [(509) 351-8404](tel:+15093518404) or [request an estimate](/#contact) and we'll give you a straight answer either way.
 
 If the clog is the main issue, see our guide on [window well drain clogged](/blog/window-well-drain-clogged/). If you want to get ahead of the next storm season entirely, [spring window well flooding prevention](/blog/spring-window-well-flooding-prevention/) walks through a seasonal checklist. Nebraska's freeze-thaw cycles do their own damage too, which we cover in [nebraska freeze-thaw window well damage](/blog/nebraska-freeze-thaw-window-well-damage/).
 

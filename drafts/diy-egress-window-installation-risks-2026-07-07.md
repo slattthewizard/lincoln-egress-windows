@@ -11,7 +11,7 @@ A homeowner in Hickman spent a Saturday cutting into his foundation with a rente
 
 That's the short version of DIY egress window installation risks: the job looks like a weekend project until concrete, water, or code steps in. Egress windows aren't just bigger basement windows. They're a structural cut into your foundation wall, tied to strict size and safety rules, and a single bedroom in Lincoln can't legally be sold or rented as a bedroom without one that meets code.
 
-This article walks through what actually goes wrong when homeowners DIY an egress window, what those mistakes cost to fix, and where the line is between a reasonable weekend task and a job you should hand to a licensed contractor. If you're already picturing a crack in your foundation or a flooded window well, call us at [(509) 224-3484](tel:+15092243484) and we'll walk the site with you before you touch a saw.
+This article walks through what actually goes wrong when homeowners DIY an egress window, what those mistakes cost to fix, and where the line is between a reasonable weekend task and a job you should hand to a licensed contractor. If you're already picturing a crack in your foundation or a flooded window well, call us at [(509) 351-8404](tel:+15093518404) and we'll walk the site with you before you touch a saw.
 
 ## Why DIY Egress Window Installation Risks Are Higher Than They Look
 
@@ -51,7 +51,7 @@ That matters most when you sell. A basement bedroom without a code-compliant egr
 
 The IRC (International Residential Code) sets the baseline egress requirements that most Nebraska jurisdictions adopt locally, covering minimum net clear opening, maximum sill height above the floor, and window well dimensions when the sill sits below grade. The City of Lincoln's [Building and Safety homeowner permit page](https://www.lincoln.ne.gov/City/Departments/PDS/Building-Safety/Homeowner-Building-Permits) lays out when a permit is required for residential work, and your specific numbers should always be checked against that current adopted code before you cut anything. We cover the full breakdown in our post on [IRC egress window code requirements](/blog/irc-egress-window-code-requirements/).
 
-If you already suspect your window doesn't meet code, whether it was a DIY job or something done by a previous owner, don't wait for a sale to find out. A quick inspection is a lot cheaper than a renegotiated closing. Call [(509) 224-3484](tel:+15092243484) and we'll tell you straight whether it passes.
+If you already suspect your window doesn't meet code, whether it was a DIY job or something done by a previous owner, don't wait for a sale to find out. A quick inspection is a lot cheaper than a renegotiated closing. Call [(509) 351-8404](tel:+15093518404) and we'll tell you straight whether it passes.
 
 ## DIY vs. Professional Egress Window Installation: A Cost Comparison
 
@@ -92,7 +92,7 @@ The Ashland homeowners who called us after their DIY well backfilled with mud du
 
 Those shortcuts compound. Water finds the low spot. A slightly-off opening means a window that seals poorly. A skipped permit means no one checked the sill height, and you don't find out it's wrong until an inspector or a buyer's agent does.
 
-If you're partway into a DIY egress window project and something feels off, whether it's water pooling, a crack you didn't expect, or a window that won't seat right, stop before you go further. A quick call often costs nothing and can save you from turning a small fix into a big one. Reach us through [our contact page](/#contact) or at [(509) 224-3484](tel:+15092243484), 24/7 for anything time-sensitive like a closing deadline or storm damage.
+If you're partway into a DIY egress window project and something feels off, whether it's water pooling, a crack you didn't expect, or a window that won't seat right, stop before you go further. A quick call often costs nothing and can save you from turning a small fix into a big one. Reach us through [our contact page](/#contact) or at [(509) 351-8404](tel:+15093518404), 24/7 for anything time-sensitive like a closing deadline or storm damage.
 
 ## Frequently Asked Questions
 

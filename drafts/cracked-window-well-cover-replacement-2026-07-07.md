@@ -15,7 +15,7 @@ Here's how to tell if you're looking at a quick swap or a bigger repair, what it
 
 Most homeowners don't think about the window well cover until the day it fails. It sits low to the ground, gets walked over, mowed near, and buried under snow, and it takes the brunt of Nebraska's weather swings without much notice. By the time a crack is visible from the yard, the cover has usually already lost most of its strength.
 
-If you already know the cover is done and you just want a number, [get in touch here](/#contact) or call **(509) 224-3484**. We give free written estimates and can usually tell you over the phone whether you need a new cover or something more.
+If you already know the cover is done and you just want a number, [get in touch here](/#contact) or call **(509) 351-8404**. We give free written estimates and can usually tell you over the phone whether you need a new cover or something more.
 
 ## What Causes a Cracked Window Well Cover in Nebraska
 
@@ -120,4 +120,4 @@ It can. Inspectors and appraisers check that the egress cover releases easily fr
 
 A straightforward cover swap on an existing well usually doesn't need a separate permit, but any work that changes the well's size or the window opening does. Lincoln-Lancaster County permit fees for related egress work generally run $75-$200; you can check current requirements on the city's [permit applications page](https://www.lincoln.ne.gov/City/Departments/PDS/Building-Safety/Permit-Applications).
 
-Ready to get your window well cover fixed before it becomes a bigger problem? [Contact Lincoln Egress Windows](/#contact) or call **(509) 224-3484** for a free written estimate.
+Ready to get your window well cover fixed before it becomes a bigger problem? [Contact Lincoln Egress Windows](/#contact) or call **(509) 351-8404** for a free written estimate.

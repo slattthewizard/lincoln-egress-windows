@@ -11,7 +11,7 @@ Your home inspector walks into the basement bedroom, pulls out a tape measure, a
 
 That's usually the first time a homeowner hears the phrase IRC egress window code requirements, and by then the clock is already running. The good news is the rules aren't complicated once you see the actual numbers. The International Residential Code, Section R310, spells out exactly what a legal basement bedroom window has to do, and every one of those numbers is measurable with a tape measure in about ten minutes.
 
-This guide walks through the real IRC R310 numbers, why cities like Lincoln enforce them, and what it typically costs to fix a window that falls short. If you're staring down a failed inspection or just finishing a basement and want to get it right the first time, [get in touch](/#contact) or call us at [(509) 224-3484](tel:+15092243484) and we'll tell you straight whether your window passes or not.
+This guide walks through the real IRC R310 numbers, why cities like Lincoln enforce them, and what it typically costs to fix a window that falls short. If you're staring down a failed inspection or just finishing a basement and want to get it right the first time, [get in touch](/#contact) or call us at [(509) 351-8404](tel:+15093518404) and we'll tell you straight whether your window passes or not.
 
 ## What "IRC Egress Window Code Requirements" Actually Mean
 
@@ -43,7 +43,7 @@ That third one catches people off guard. Even a window that's plenty big can fai
 
 Width and height also can't be swapped against each other. A window that's 30 inches wide but only 18 inches tall doesn't meet code even though 30 times 18 is more than 5.7 square feet in raw area. Both minimums have to be hit on their own, and the total opening still has to clear 5.7 square feet.
 
-If you're not sure your current window clears all three numbers at once, that's exactly the kind of five-minute question we answer over the phone. [Call (509) 224-3484](tel:+15092243484) and we'll walk you through it before you spend a dime on inspections or estimates.
+If you're not sure your current window clears all three numbers at once, that's exactly the kind of five-minute question we answer over the phone. [Call (509) 351-8404](tel:+15093518404) and we'll walk you through it before you spend a dime on inspections or estimates.
 
 ## Window Well Rules Under the IRC Egress Window Code
 

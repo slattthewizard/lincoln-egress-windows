@@ -23,7 +23,7 @@ Egress windows get stuck for a shorter list of reasons than most homeowners expe
 - **Rusted or worn hardware.** Cranks, hinges, and locks corrode, especially in below-grade windows exposed to moisture from the window well.
 - **A warped or racked frame.** Water intrusion, foundation settling, or a poorly built window well can knock the frame out of square so the sash physically can't clear it.
 
-Some of these are a five-minute fix. Others mean the frame itself has failed and needs to come out. If you're not sure which one you're dealing with, that's a reasonable thing to have someone look at rather than guess. Call Lincoln Egress Windows at [(509) 224-3484](tel:+15092243484) or [reach out online](/#contact) for a free inspection, and we'll tell you straight whether it's a quick repair or something bigger.
+Some of these are a five-minute fix. Others mean the frame itself has failed and needs to come out. If you're not sure which one you're dealing with, that's a reasonable thing to have someone look at rather than guess. Call Lincoln Egress Windows at [(509) 351-8404](tel:+15093518404) or [reach out online](/#contact) for a free inspection, and we'll tell you straight whether it's a quick repair or something bigger.
 
 ## The Most Common Culprit: Paint, Dirt, and a Swollen Frame
 
@@ -61,7 +61,7 @@ Stop and call a professional if you notice any of the following: the frame looks
 
 A basic toolkit covers most of this: a utility knife, a stiff-bristle brush, a rag, and a silicone spray lubricant meant for door and window hardware. Skip WD-40 and household oils, since they attract dust and grit that makes the sticking worse within a season. If you're working near the window well itself, keep an eye out for loose soil or a wall that flexes when you lean on it. That's a structural issue outside the scope of a window repair, and it's not something to climb into and troubleshoot on your own.
 
-If you've gone through the basics and the window still won't move, or if you're seeing any of those warning signs, don't keep pushing on it. Call us at [(509) 224-3484](tel:+15092243484) and we'll get someone out to look at it, usually within a day or two.
+If you've gone through the basics and the window still won't move, or if you're seeing any of those warning signs, don't keep pushing on it. Call us at [(509) 351-8404](tel:+15093518404) and we'll get someone out to look at it, usually within a day or two.
 
 ## What It Costs to Fix a Stuck Egress Window in Lincoln
 
@@ -78,7 +78,7 @@ Todd and Carla in Seward learned about that middle tier the stressful way. Two w
 
 If you want a clearer sense of where your situation falls before you call anyone, our [egress window cost guide](/egress-window-cost/) breaks down pricing across every type of project, and our [egress window replacement page](/egress-window-replacement-lincoln/) covers what that process looks like start to finish.
 
-Keep in mind that Lincoln requires a permit for egress window replacement and cut-in work, which typically runs $75 to $200 on top of the project itself. We pull that permit as part of the job, so it's already factored into the estimates we give you, not an extra line item that shows up later. Whatever category your window falls into, we'll give you a free written estimate before anything starts. [Contact us online](/#contact) or call [(509) 224-3484](tel:+15092243484) to get a technician out.
+Keep in mind that Lincoln requires a permit for egress window replacement and cut-in work, which typically runs $75 to $200 on top of the project itself. We pull that permit as part of the job, so it's already factored into the estimates we give you, not an extra line item that shows up later. Whatever category your window falls into, we'll give you a free written estimate before anything starts. [Contact us online](/#contact) or call [(509) 351-8404](tel:+15093518404) to get a technician out.
 
 ## Why a Stuck Window Is a Bigger Deal Than It Seems
 

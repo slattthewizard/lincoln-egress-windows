@@ -21,7 +21,7 @@ The International Residential Code doesn't regulate screens directly, but it doe
 
 The U.S. Consumer Product Safety Commission also warns that ordinary screens were never designed to hold a person's weight or stop a fall, so they shouldn't be treated as a safety barrier on their own (see the CPSC's [guide to preventing window falls](https://www.cpsc.gov/safety-education/safety-guides/home/preventing-window-falls)). For an egress window, the screen's job is airflow and bug control, nothing more. Anything that adds resistance to opening the window defeats the purpose.
 
-If your basement bedroom relies on an egress window, [call us at (509) 224-3484](tel:+15092243484) for a free written estimate before your next home inspection or listing photo shoot catches a screen problem you didn't know you had.
+If your basement bedroom relies on an egress window, [call us at (509) 351-8404](tel:+15093518404) for a free written estimate before your next home inspection or listing photo shoot catches a screen problem you didn't know you had.
 
 ## The Egress Window Screen Options Lincoln Homeowners Actually Use
 
@@ -90,7 +90,7 @@ Any of those point to a bigger issue than the screen itself, and cutting corners
 
 Marcus and his wife in Crete found this out when they tried to fix a jammed sliding screen themselves and discovered the track was bent because the window well had shifted from years of freeze-thaw cycles. What looked like a $150 screen fix turned into a $1,450 well and frame repair. They said they wished they'd called for an inspection the first time the screen started sticking instead of forcing it for two winters.
 
-If a screen on your egress window feels stuck, warped, or hard to release, [reach out through our contact page](/#contact) or [call (509) 224-3484](tel:+15092243484) and we'll take a look before a small problem becomes a foundation-level one.
+If a screen on your egress window feels stuck, warped, or hard to release, [reach out through our contact page](/#contact) or [call (509) 351-8404](tel:+15093518404) and we'll take a look before a small problem becomes a foundation-level one.
 
 ## Getting It Right the First Time
 

@@ -11,7 +11,7 @@ The listing says four bedrooms. Walk down to the basement and you might find onl
 
 If you're buying a home with a basement bedroom, egress is the one thing worth checking before you fall in love with the listing photos. This basement bedroom egress checklist walks you through exactly what to look at, what it might cost to fix, and how to get it handled before you close instead of after. We work on egress windows across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland, and we see the same surprise pop up on closing timelines more than almost anything else.
 
-Already under contract and short on time? [Get a free written estimate](/#contact) or call **(509) 224-3484**. We can often inspect a basement window and quote the fix within the same week, which matters when your closing date is already on the calendar.
+Already under contract and short on time? [Get a free written estimate](/#contact) or call **(509) 351-8404**. We can often inspect a basement window and quote the fix within the same week, which matters when your closing date is already on the calendar.
 
 ## Why Every Basement Bedroom Buyer Needs an Egress Checklist
 
@@ -63,7 +63,7 @@ In **Ashland**, a first-time buyer named Priya almost skipped the basement entir
 
 Three different outcomes, all from catching the same problem at different points in the process. The earlier you catch it, the more leverage you have.
 
-Want a second set of eyes on a basement bedroom before your offer goes in, or before your inspection contingency expires? [Request a free written estimate](/#contact) or call **(509) 224-3484**. We serve buyers on tight closing timelines regularly.
+Want a second set of eyes on a basement bedroom before your offer goes in, or before your inspection contingency expires? [Request a free written estimate](/#contact) or call **(509) 351-8404**. We serve buyers on tight closing timelines regularly.
 
 ## How to Negotiate Egress Repairs Into Your Purchase Contract
 
@@ -93,7 +93,7 @@ Where you should stop is anything involving structural work, concrete cutting, o
 
 Before you buy a home based on your own read of the basement window, get a professional opinion if anything looks borderline. It's a lot cheaper than finding out after closing that the "bedroom" needs a $6,000 fix you didn't budget for. Our guide on [hiring an egress window contractor](/blog/hiring-egress-window-contractor-checklist/) covers what to ask before you sign anyone up for the work.
 
-If you want the full picture before you make an offer, [contact Lincoln Egress Windows for a free written estimate](/#contact) or call **(509) 224-3484**. We'll tell you straight whether a basement bedroom is fine, fixable, or a bigger project than the listing suggests.
+If you want the full picture before you make an offer, [contact Lincoln Egress Windows for a free written estimate](/#contact) or call **(509) 351-8404**. We'll tell you straight whether a basement bedroom is fine, fixable, or a bigger project than the listing suggests.
 
 ## Frequently Asked Questions
 
@@ -113,4 +113,4 @@ It can. Appraisers are supposed to count only legally compliant rooms as bedroom
 
 It ranges widely based on what's actually wrong. A stuck window or damaged well can run $600 to $3,000, while a basement with no opening at all usually needs a full cut-in installation between $3,500 and $9,500 depending on the foundation and finishing involved. Get a written estimate before you negotiate so the number reflects your specific house.
 
-Basement bedroom questions before you sign anything? [Get a free written estimate from Lincoln Egress Windows](/#contact) or call **(509) 224-3484**. We serve buyers and sellers across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland.
+Basement bedroom questions before you sign anything? [Get a free written estimate from Lincoln Egress Windows](/#contact) or call **(509) 351-8404**. We serve buyers and sellers across Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, and Ashland.

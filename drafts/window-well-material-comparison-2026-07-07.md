@@ -13,7 +13,7 @@ If you're staring at a rusted-out well or shopping for a new egress installation
 
 We've pulled corrugated steel wells that lasted eight years and others that held up for thirty. We've also seen polyethylene wells crack after one hard Nebraska winter and others still holding strong a decade later. Material matters, but so does thickness, installation, and how much water the well handles every spring.
 
-If you'd rather skip the research and just get a straight answer for your house, call (509) 224-3484 or [request a free written estimate](/#contact). We'll tell you what we'd install on our own home.
+If you'd rather skip the research and just get a straight answer for your house, call (509) 351-8404 or [request a free written estimate](/#contact). We'll tell you what we'd install on our own home.
 
 ## Steel Window Wells: Strength With a Rust Clock Ticking
 
@@ -81,7 +81,7 @@ Full new cut-in installs, where there's no existing window well opening at all, 
 
 See our [window well installation](/window-well-installation-lincoln/) page for what's included at each price point, or check the full [egress window cost](/egress-window-cost/) breakdown for every line item.
 
-Ready to get a real number for your house instead of a range? Call (509) 224-3484 or [request a free written estimate](/#contact) and we'll walk the site with you.
+Ready to get a real number for your house instead of a range? Call (509) 351-8404 or [request a free written estimate](/#contact) and we'll walk the site with you.
 
 ## When to Call a Pro Instead of Doing It Yourself
 
@@ -115,4 +115,4 @@ Yes, covers and ladders are largely universal across brands as long as the dimen
 
 For general guidance on egress and window well drainage standards, see the [International Code Council's model residential code summaries](https://codes.iccsafe.org/) and the [University of Nebraska-Lincoln Extension's guidance on soil and foundation drainage](https://extension.unl.edu/). Local Lincoln permit and inspection requirements are listed on the [City of Lincoln Building & Safety permits page](https://lincoln.ne.gov/City/Departments/Building-and-Safety).
 
-Whether you're replacing a rusted-out steel well in Waverly or a cracked polyethylene one in Hickman, the material choice should match your soil, your drainage, and your budget, not just whatever's cheapest at the counter. Call (509) 224-3484 or [request a free written estimate](/#contact) and we'll tell you which one makes sense for your house.
+Whether you're replacing a rusted-out steel well in Waverly or a cracked polyethylene one in Hickman, the material choice should match your soil, your drainage, and your budget, not just whatever's cheapest at the counter. Call (509) 351-8404 or [request a free written estimate](/#contact) and we'll tell you which one makes sense for your house.

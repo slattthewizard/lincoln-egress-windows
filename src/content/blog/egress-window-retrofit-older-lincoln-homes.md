@@ -106,7 +106,7 @@ Some parts of an egress window retrofit are fine to plan and budget yourself. De
 
 A wrong guess on any of these can mean a cracked foundation, a sagging wall above the window, or an inspection failure that costs more to fix than doing it right the first time. If you're not sure what your basement is dealing with, [request a free written estimate](/#contact) and have someone look at the actual wall before you plan around a number you found online.
 
-Ready to talk through your specific house? Call [(509) 224-3484](tel:+15092243484) any time, including after hours if you're working against a closing deadline or a code complaint.
+Ready to talk through your specific house? Call [(509) 351-8404](tel:+15093518404) any time, including after hours if you're working against a closing deadline or a code complaint.
 
 ## Frequently Asked Questions
 

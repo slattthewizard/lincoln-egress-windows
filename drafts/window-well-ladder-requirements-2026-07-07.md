@@ -11,7 +11,7 @@ A Lincoln home inspector failed a basement bedroom last spring, and it wasn't th
 
 If your window well is deeper than 44 inches, code doesn't care how nice the window looks or how big the well is. Window well ladder requirements kick in automatically, and skipping them is one of the most common reasons Lancaster County inspections stall or home sales stumble right before closing.
 
-The good news is that the rules aren't complicated once someone walks you through them. This guide covers what the International Residential Code requires for window well ladders, what inspectors in Lincoln and the surrounding counties actually look for, and what it costs to fix a well that's missing one. If you're not sure your well qualifies, call Lincoln Egress Windows at [(509) 224-3484](tel:+15092243484) for a free look before a buyer's inspector finds the problem first.
+The good news is that the rules aren't complicated once someone walks you through them. This guide covers what the International Residential Code requires for window well ladders, what inspectors in Lincoln and the surrounding counties actually look for, and what it costs to fix a well that's missing one. If you're not sure your well qualifies, call Lincoln Egress Windows at [(509) 351-8404](tel:+15093518404) for a free look before a buyer's inspector finds the problem first.
 
 ## Why Window Well Ladder Requirements Exist (Not Just a Suggestion)
 
@@ -66,7 +66,7 @@ Most retrofits in existing homes use a fixed ladder because it's faster and chea
 
 **Beatrice.** A landlord named Priya was preparing a rental property for a city rental license inspection. Two of her basement units had window wells with no ladders and cracked covers. Adding compliant ladders and new covers to both wells ran $520 total, and it cleared the rental inspection without a follow-up visit.
 
-If any of that sounds familiar, don't wait for an inspector to find it. [Reach out through our contact form](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll tell you plainly whether your well needs a ladder, steps, or nothing at all.
+If any of that sounds familiar, don't wait for an inspector to find it. [Reach out through our contact form](/#contact) or call [(509) 351-8404](tel:+15093518404) and we'll tell you plainly whether your well needs a ladder, steps, or nothing at all.
 
 ## Installing or Retrofitting a Ladder the Right Way
 
@@ -110,4 +110,4 @@ A standalone ladder retrofit on an existing, undamaged well usually doesn't requ
 
 It usually shows up on the buyer's inspection report and either delays closing or gets negotiated as a repair credit. Since a non-compliant well can affect whether a basement room legally counts as a bedroom, it can also affect the home's appraised value. Fixing it before listing, rather than after an inspection flags it, almost always costs less and moves faster. Related reading on that topic is in our post on [selling a house with a non-compliant basement bedroom](/blog/selling-house-non-compliant-basement-bedroom/).
 
-Window well ladder requirements aren't complicated once you know the numbers: 44 inches triggers the rule, 18-inch rung spacing, 12-inch minimum width, and permanent anchoring. Whether you're fixing a well before a sale, finishing a basement, or just noticed your ladder looks shaky, Lincoln Egress Windows can check it and give you a straight answer. Call [(509) 224-3484](tel:+15092243484) or [contact us](/#contact) for a free written estimate.
+Window well ladder requirements aren't complicated once you know the numbers: 44 inches triggers the rule, 18-inch rung spacing, 12-inch minimum width, and permanent anchoring. Whether you're fixing a well before a sale, finishing a basement, or just noticed your ladder looks shaky, Lincoln Egress Windows can check it and give you a straight answer. Call [(509) 351-8404](tel:+15093518404) or [contact us](/#contact) for a free written estimate.

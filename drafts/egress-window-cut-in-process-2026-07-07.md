@@ -1,6 +1,6 @@
 ---
 meta_title: "How the Egress Window Cut-In Process Actually Works"
-meta_description: "See the egress window cut-in process step by step, from permits to backfill, with real Lincoln pricing and timelines. Free written estimates: (509) 224-3484."
+meta_description: "See the egress window cut-in process step by step, from permits to backfill, with real Lincoln pricing and timelines. Free written estimates: (509) 351-8404."
 primary_keyword: "egress window cut-in process"
 secondary_keywords: "cutting a new egress window opening, egress window installation process, basement egress window cut-in cost, foundation cut-in for egress window, new egress window install"
 ---
@@ -13,7 +13,7 @@ The egress window cut-in process is the term contractors use when there's no exi
 
 This matters more than it might seem. A basement bedroom without a code-compliant egress window isn't legal, and it isn't something you can honestly list as a bedroom when you sell. Buyers' agents and home inspectors in Lancaster, Seward, Saline, and Gage counties know exactly what to look for. If you're planning a basement finish or you've got an inspection report flagging the issue, this guide walks through what actually happens on cut-in day and what it should cost.
 
-If you want a firm number for your own foundation before reading further, call (509) 224-3484 or reach out through our [contact page](/#contact) for a free written estimate. It costs nothing to find out what your specific wall and grade look like.
+If you want a firm number for your own foundation before reading further, call (509) 351-8404 or reach out through our [contact page](/#contact) for a free written estimate. It costs nothing to find out what your specific wall and grade look like.
 
 ## What "Cut-In" Actually Means (and Why It's Different from a Swap)
 
@@ -79,7 +79,7 @@ For excavation deeper than a few feet, or any digging near a foundation with uns
 
 Every foundation is different, so treat these as planning ranges rather than a quote. A free written estimate from a walk-through of your specific wall is the only way to know your real number.
 
-Ready to see where your project lands? Call (509) 224-3484 or use our [contact form](/#contact) and we'll walk your basement wall with you before you commit to anything.
+Ready to see where your project lands? Call (509) 351-8404 or use our [contact form](/#contact) and we'll walk your basement wall with you before you commit to anything.
 
 Most straightforward cut-in projects in Lincoln take two to four days from the first cut to the finished well, weather and permit timing allowing. Concrete cutting and framing usually happen on day one, waterproofing and well excavation on day two, with backfill, grading, and interior finish work wrapping up after that.
 
@@ -111,4 +111,4 @@ Cutting a new egress opening is one of the more involved projects a basement fin
 
 For a closer look at what happens on-site day by day, read our breakdown of the [egress window installation timeline](/blog/egress-window-installation-timeline/), or check the [IRC egress window code requirements](/blog/irc-egress-window-code-requirements/) if you want the exact dimensions inspectors check. Homeowners navigating the paperwork side should also read our guide to the [Lincoln-Lancaster County egress permit](/blog/lincoln-lancaster-county-egress-permit/) process before applying.
 
-Whatever stage you're at, a free written estimate is the fastest way to get real numbers for your foundation. Call (509) 224-3484 or email info@lincolnegresswindows.com, or reach us anytime through our [contact page](/#contact).
+Whatever stage you're at, a free written estimate is the fastest way to get real numbers for your foundation. Call (509) 351-8404 or email info@lincolnegresswindows.com, or reach us anytime through our [contact page](/#contact).

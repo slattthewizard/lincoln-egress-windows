@@ -11,7 +11,7 @@ A code inspector can fail the exact same basement bedroom twice for the exact sa
 
 This guide walks through how each style opens, what it costs installed in Lincoln, and which one actually fits your window well without a redo. We'll also cover the one style most homeowners in our service area never need, and why.
 
-If you'd rather skip the research and just get a straight answer for your specific window well, call [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll tell you which style fits.
+If you'd rather skip the research and just get a straight answer for your specific window well, call [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact) and we'll tell you which style fits.
 
 ## What Sets Casement, Slider, and In-Swing Egress Windows Apart
 
@@ -33,7 +33,7 @@ In Waverly, a homeowner named Marcus was finishing his basement into a fourth be
 
 Casement windows also seal tighter against drafts than sliders because the crank mechanism compresses the sash against the frame rather than relying on a sliding track. That's a real plus in a Nebraska winter, when every gap around a basement window turns into a cold spot.
 
-Not sure whether your current well can handle a casement swap without an upgrade? A quick estimate settles it fast. Call [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll tell you exactly what fits.
+Not sure whether your current well can handle a casement swap without an upgrade? A quick estimate settles it fast. Call [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact) and we'll tell you exactly what fits.
 
 ## Slider Egress Windows: Budget-Friendly but Limited Clearance
 
@@ -77,7 +77,7 @@ If the well is standard width or narrow, a casement window almost always gets yo
 
 Permits in Lincoln typically run $75-$200 depending on the scope of work, and that cost is the same no matter which style you choose. What changes is the labor and materials behind it. If you're weighing the full cost picture across styles and scopes, our [egress window cost](/egress-window-cost/) page has the complete breakdown, including when it's smarter to fix what's there instead of swapping styles entirely.
 
-Ready to find out which style fits your well without guesswork? Call [(509) 224-3484](tel:+15092243484) or [get a free written estimate](/#contact) and we'll measure it out before you commit to anything.
+Ready to find out which style fits your well without guesswork? Call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact) and we'll measure it out before you commit to anything.
 
 ## When to Call a Professional Instead of Handling It Yourself
 

@@ -36,7 +36,7 @@ A few things push basement humidity high enough to cause it:
 
 Humidity doesn't take a season off. Nebraska basements often run more humid in winter than summer because the furnace dries upstairs air while the below-grade concrete stays cold and damp, and that temperature gap is what fogs the glass.
 
-Not sure if this is a window issue or a bigger moisture issue in the room? A quick call gets you a straight answer. Reach us at [(509) 224-3484](tel:+15092243484) or [request a free written estimate](/#contact) and we'll walk you through it.
+Not sure if this is a window issue or a bigger moisture issue in the room? A quick call gets you a straight answer. Reach us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact) and we'll walk you through it.
 
 The frame itself plays a role too. Older aluminum-framed egress windows conduct outdoor cold straight through to the inside edge of the glass, which gives moisture an easy place to collect even when the rest of the room feels fine. Vinyl frames, and wood frames with a good aluminum-clad exterior, insulate better and tend to run noticeably warmer to the touch on a cold January morning. If you're replacing a window anyway, that's worth factoring in, and our breakdown of [vinyl vs wood egress window frames](/blog/vinyl-vs-wood-egress-window-frames/) covers how each holds up in a Nebraska winter.
 
@@ -108,7 +108,7 @@ According to the U.S. Environmental Protection Agency, indoor moisture that isn'
 
 If your basement bedroom needs to stay a legal bedroom, whether for your own family or for a future sale, a non-functioning or moisture-damaged egress window is a real liability. We cover that angle in [selling a house with a non-compliant basement bedroom](/blog/selling-house-non-compliant-basement-bedroom/) if you're weighing a sale timeline against a repair.
 
-Ready to get ahead of it before winter comes back around? Call [(509) 224-3484](tel:+15092243484) or [get a free written estimate](/#contact) and we'll tell you straight whether you need a drain cleared, a new seal, or a full window swap.
+Ready to get ahead of it before winter comes back around? Call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact) and we'll tell you straight whether you need a drain cleared, a new seal, or a full window swap.
 
 ## Frequently Asked Questions
 
