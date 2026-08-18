@@ -6,7 +6,7 @@ metaDescription: "Rust in your window well isn't always fatal. Learn when a $600
 primaryKeyword: "rusted window well replacement"
 secondaryKeywords: "window well repair cost, rusted egress window well, window well replacement cost, corroded window well, window well corrosion repair"
 publishedDate: "2026-08-04"
-tag: "Pump Repair"
+tag: "Repair & Replacement"
 subtitle: "Push your thumb against the side of your window well and does it crumble like a stale cracker? That flaking, orange-brown metal is telling you something, and it's not just about looks."
 canonical: "https://lincolnegresswindows.com/blog/rusted-window-well-replacement/"
 faq:

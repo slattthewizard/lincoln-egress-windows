@@ -6,7 +6,7 @@ metaDescription: "Water pooling fast? Learn emergency fixes for window well floo
 primaryKeyword: "window well flooding basement"
 secondaryKeywords: "flooded window well, window well drainage, basement window flooding, window well water damage, egress window flooding"
 publishedDate: "2026-07-07"
-tag: "Pump Repair"
+tag: "Drainage & Water"
 subtitle: "Six inches of rain in one night and now there's a brown puddle creeping across your basement carpet. If you're dealing with window well flooding basement damage right now, you don't have time for..."
 canonical: "https://lincolnegresswindows.com/blog/flooded-window-well/"
 faq:

@@ -6,7 +6,7 @@ metaDescription: "See real 2026 egress window replacement cost numbers for Linco
 primaryKeyword: "egress window replacement cost"
 secondaryKeywords: "egress window installation cost, egress window replacement Lincoln, egress window cost Nebraska, basement egress window cost, window well replacement cost"
 publishedDate: "2026-07-20"
-tag: "Pump Replacement"
+tag: "Cost Guide"
 subtitle: "A cracked frame, a rusted well, or a code inspector's letter can turn a quiet Tuesday into a scramble for numbers you don't have."
 canonical: "https://lincolnegresswindows.com/blog/egress-window-replacement-cost-lincoln/"
 faq:

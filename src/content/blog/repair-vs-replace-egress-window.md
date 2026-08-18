@@ -6,7 +6,7 @@ metaDescription: "Not sure whether to repair or replace your egress window? See 
 primaryKeyword: "repair or replace egress window"
 secondaryKeywords: "egress window replacement cost, when to replace an egress window, egress window repair vs replacement, fix or replace basement window, egress window replacement Lincoln NE"
 publishedDate: "2026-07-07"
-tag: "Pump Repair"
+tag: "Repair & Replacement"
 subtitle: "Your basement window won't stay open, the well is full of water again, and a home inspector just circled it in red."
 canonical: "https://lincolnegresswindows.com/blog/repair-vs-replace-egress-window/"
 faq:

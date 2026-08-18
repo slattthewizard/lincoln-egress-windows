@@ -6,7 +6,7 @@ metaDescription: "Foggy, dripping egress windows in a Lincoln basement? Here's w
 primaryKeyword: "egress window condensation problems"
 secondaryKeywords: "egress window fogging, basement window condensation, window well moisture, sweating basement windows, egress window mold"
 publishedDate: "2026-07-16"
-tag: "Pump Repair"
+tag: "Maintenance"
 subtitle: "Wake up, walk past the basement bedroom, and find water beading down the inside of the egress window glass again. Maybe it's frost this time, thick enough to scrape with a fingernail."
 canonical: "https://lincolnegresswindows.com/blog/egress-window-condensation/"
 faq:

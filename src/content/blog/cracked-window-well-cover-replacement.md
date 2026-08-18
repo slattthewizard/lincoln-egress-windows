@@ -6,7 +6,7 @@ metaDescription: "Cracked window well cover? See what causes it, what a cracked 
 primaryKeyword: "cracked window well cover replacement"
 secondaryKeywords: "window well cover repair, replace window well cover, cracked egress window well cover, window well cover cost, when to replace window well cover"
 publishedDate: "2026-07-13"
-tag: "Pump Repair"
+tag: "Repair & Replacement"
 subtitle: "You step outside after a hard freeze and there it is: a spiderweb of cracks running across your window well cover, or a corner snapped clean off."
 canonical: "https://lincolnegresswindows.com/blog/cracked-window-well-cover-replacement/"
 faq:

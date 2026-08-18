@@ -14,19 +14,29 @@ from pathlib import Path
 
 
 TAG_MAP = {
-    'repair': 'Pump Repair', 'fix': 'Pump Repair', 'troubleshoot': 'Pump Repair',
-    'replace': 'Pump Replacement', 'replacement': 'Pump Replacement', 'lifespan': 'Pump Replacement',
-    'pressure tank': 'Pressure Tanks', 'pressure switch': 'Pressure Tanks', 'bladder': 'Pressure Tanks',
-    'no water': 'Emergency', 'emergency': 'Emergency', 'stopped working': 'Emergency',
-    'cost': 'Cost Guide', 'price': 'Cost Guide', 'worth': 'Cost Guide',
-    'water quality': 'Water Quality', 'sediment': 'Water Quality', 'smell': 'Water Quality',
-    'taste': 'Water Quality', 'test': 'Water Quality', 'filter': 'Water Quality', 'softener': 'Water Quality',
-    'winter': 'Maintenance', 'maintenance': 'Maintenance', 'inspect': 'Maintenance',
-    'freeze': 'Maintenance', 'frozen': 'Maintenance',
-    'drill': 'Wells 101', 'depth': 'Wells 101', 'how deep': 'Wells 101', 'casing': 'Wells 101',
-    'permit': 'Regulations', 'law': 'Regulations', 'rights': 'Regulations', 'license': 'Regulations',
-    'buy': 'Buying a Home', 'real estate': 'Buying a Home', 'inspection when buying': 'Buying a Home',
-    'irrigation': 'Irrigation', 'orchard': 'Irrigation', 'sprinkler': 'Irrigation',
+    'permit': 'Codes & Permits', 'code': 'Codes & Permits', 'irc': 'Codes & Permits',
+    'requirement': 'Codes & Permits', 'legal': 'Codes & Permits', 'law': 'Codes & Permits',
+    'cost': 'Cost Guide', 'price': 'Cost Guide', 'financing': 'Cost Guide',
+    'value': 'Cost Guide', 'worth': 'Cost Guide',
+    'flood': 'Drainage & Water', 'drain': 'Drainage & Water', 'drainage': 'Drainage & Water',
+    'leak': 'Drainage & Water', 'radon': 'Drainage & Water',
+    'security': 'Safety & Security', 'safe room': 'Safety & Security', 'tornado': 'Safety & Security',
+    'insurance': 'Safety & Security',
+    'rental': 'Rentals & ADUs', 'landlord': 'Rentals & ADUs', 'tenant': 'Rentals & ADUs',
+    'adu': 'Rentals & ADUs',
+    'buying': 'Buying & Selling', 'selling': 'Buying & Selling', 'sell': 'Buying & Selling',
+    'home inspection': 'Buying & Selling', 'real estate': 'Buying & Selling',
+    'repair': 'Repair & Replacement', 'replace': 'Repair & Replacement',
+    'replacement': 'Repair & Replacement', 'stuck': 'Repair & Replacement',
+    'rusted': 'Repair & Replacement', 'cracked': 'Repair & Replacement',
+    'bowing': 'Repair & Replacement',
+    'winter': 'Maintenance', 'freeze': 'Maintenance', 'maintenance': 'Maintenance',
+    'condensation': 'Maintenance', 'cleanup': 'Maintenance', 'debris': 'Maintenance',
+    'install': 'Installation', 'cut-in': 'Installation', 'process': 'Installation',
+    'timeline': 'Installation', 'contractor': 'Installation', 'diy': 'Installation',
+    'foundation': 'Installation', 'warranty': 'Installation',
+    'window well': 'Window Wells', 'well cover': 'Window Wells', 'ladder': 'Window Wells',
+    'basement': 'Basement Projects', 'bedroom': 'Basement Projects', 'finishing': 'Basement Projects',
 }
 
 
@@ -42,7 +52,7 @@ def make_nav_title(title):
     nav = re.sub(r'\s*\|.*$', '', title)
     nav = re.sub(r'\s*[-–—]\s*Lincoln Egress Windows.*$', '', nav)
     nav = re.sub(r'\s*\(20\d{2}.*?\)', '', nav)
-    nav = re.sub(r'\s*Wenatchee:?\s*', ' ', nav).strip()
+    nav = re.sub(r'\s*Lincoln:?\s*', ' ', nav).strip()
     if len(nav) <= 30:
         return nav
     words = nav.split()
@@ -141,7 +151,7 @@ def extract_faq(body):
 
 
 def clean_body_links(body):
-    body = re.sub(r'https?://wenatcheewellpros\.com/', '/', body)
+    body = re.sub(r'https?://lincolnegresswindows\.com/', '/', body)
     body = re.sub(r'(\(/[^)]*?)\.html\)', r'\1/)', body)
     return body
 
