@@ -11,7 +11,7 @@ You bought a newer home, the basement is unfinished, and you want to turn part o
 
 It's a reasonable thing to check, and it's a question we get most often from owners of homes five to ten years old in the newer developments around Lincoln, Waverly, and Hickman. The answer is usually manageable, but "usually" is doing some work in that sentence, and the time to find out is before the saw comes out.
 
-Call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact) and we'll talk through what your specific situation needs.
+Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact) and we'll talk through what your specific situation needs.
 
 ## The Quick Answer
 
@@ -121,4 +121,4 @@ It helps considerably. A permit and inspection are independent verification that
 
 The warranty question has a simple practical answer: do the work in a way that stands up to scrutiny, and keep the paper that proves it.
 
-Call [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, pull the permit, and hand over the documentation at the end.
+Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, pull the permit, and hand over the documentation at the end.

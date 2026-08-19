@@ -13,7 +13,7 @@ Both have answers, and both are more specific than the internet's version. The h
 
 This is general information, not insurance advice. Your agent and your actual policy language are the authority. But here's what to ask them about.
 
-Have a basement project you're planning? Call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact).
+Have a basement project you're planning? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact).
 
 ## The Quick Answer
 
@@ -133,4 +133,4 @@ It doesn't automatically void coverage, but it complicates claims, interacts wit
 
 The insurance conversation gets simpler once the basement room is compliant, permitted, and documented.
 
-Call [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, pull the permit, and hand you the paperwork at the end.
+Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, pull the permit, and hand you the paperwork at the end.

@@ -11,7 +11,7 @@ Yes, but not in the way most articles about home improvements would tell you, an
 
 The value is real and it comes from three specific places: a room that legally counts, a sale that doesn't get derailed, and a set of buyers who can now consider your house. None of those is a tidy number, and together they usually justify the project on a home where a basement bedroom is in play.
 
-Thinking about this before listing? Call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact).
+Thinking about this before listing? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact).
 
 ## The Quick Answer
 
@@ -118,4 +118,4 @@ It can. A buyer can't verify unpermitted work, an inspector will note the absenc
 
 An egress window done on your schedule is an improvement. The same window done during an inspection period is a concession.
 
-Call [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We install egress windows across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit so the paperwork is there when you need it.
+Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We install egress windows across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit so the paperwork is there when you need it.

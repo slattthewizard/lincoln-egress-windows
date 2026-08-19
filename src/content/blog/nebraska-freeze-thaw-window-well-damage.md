@@ -17,13 +17,13 @@ faq:
   - question: "Is it cheaper to repair a window well or replace it after frost damage?"
     answer: "Small cracks in a cover or minor rust are usually worth repairing, often for $150 to $600. Once a wall is bowed, badly rusted, or separated from the foundation, replacement at $600 to $1,500 is typically the better long-term value since a compromised wall will keep failing every winter."
   - question: "How often should I inspect my window well for freeze-thaw damage?"
-    answer: "Check it at least twice a year: once in late fall before the ground freezes and once in early spring as it thaws. Those two windows are when frost heave pressure is highest and when new cracks or drainage problems are easiest to spot. Freeze-thaw window well damage rarely announces itself all at once. It shows up as a small crack, a slight lean, or water that takes a little longer to drain than it used to. Catching it in that early stage usually means a $150 to $600 fix instead of a multi-thousand-dollar rebuild. If you've noticed any of the warning signs above on your Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland home, call (509) 351-8404 or reach out here for a free written estimate."
+    answer: "Check it at least twice a year: once in late fall before the ground freezes and once in early spring as it thaws. Those two windows are when frost heave pressure is highest and when new cracks or drainage problems are easiest to spot. Freeze-thaw window well damage rarely announces itself all at once. It shows up as a small crack, a slight lean, or water that takes a little longer to drain than it used to. Catching it in that early stage usually means a $150 to $600 fix instead of a multi-thousand-dollar rebuild. If you've noticed any of the warning signs above on your Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland home, call (888) 217-8740 or reach out here for a free written estimate."
 ---
 Marcus in Hickman didn't think much about the hairline crack running along his window well wall until March, when snowmelt poured straight through it and soaked the drywall in his newly finished basement. That crack didn't appear overnight. It was freeze thaw window well damage, built up slowly over a few Nebraska winters of water pushing and pulling at the steel and soil around his basement window.
 
 If you live anywhere in Lincoln, Waverly, Seward, or the rest of Southeast Nebraska, your window wells go through the same punishing cycle every year. Water seeps into small gaps, freezes, and expands. It thaws a few days later, and the cycle starts again with the next cold snap. Multiply that by dozens of freeze-thaw swings each winter and you end up with bowed walls, cracked covers, and drains that stop working right when you need them most.
 
-The good news is that this kind of damage is predictable, and it's preventable if you catch it early. If you're already seeing cracks, gaps, or standing water around your window well, don't wait for a heavy spring rain to find out how bad it is. [Get in touch with our team](/#contact) or call (509) 351-8404 for a free written estimate before the next thaw does more damage.
+The good news is that this kind of damage is predictable, and it's preventable if you catch it early. If you're already seeing cracks, gaps, or standing water around your window well, don't wait for a heavy spring rain to find out how bad it is. [Get in touch with our team](/#contact) or call (888) 217-8740 for a free written estimate before the next thaw does more damage.
 
 ## What Happens During a Nebraska Freeze-Thaw Cycle
 
@@ -82,7 +82,7 @@ Not every crack means a full replacement. The table below shows what we typicall
 | Older basement window swapped for a tighter unit | Frame no longer seals against frost | $400 - $1,200 (basement window swap) |
 | Well and opening both failed after years of damage | Long-term undetected freeze-thaw cycles | $3,500 - $7,000 new cut-in ($5,500 - $9,500 with well and finishing) |
 
-A Lincoln building permit for egress work typically runs $75 to $200 on top of the installation cost. If you're not sure which category your situation falls into, a free estimate will tell you in about 20 minutes. Call (509) 351-8404 to get one scheduled.
+A Lincoln building permit for egress work typically runs $75 to $200 on top of the installation cost. If you're not sure which category your situation falls into, a free estimate will tell you in about 20 minutes. Call (888) 217-8740 to get one scheduled.
 
 ## How to Protect Your Window Well From Freeze-Thaw Damage
 
@@ -129,4 +129,4 @@ Small cracks in a cover or minor rust are usually worth repairing, often for $15
 
 Check it at least twice a year: once in late fall before the ground freezes and once in early spring as it thaws. Those two windows are when frost heave pressure is highest and when new cracks or drainage problems are easiest to spot.
 
-Freeze-thaw window well damage rarely announces itself all at once. It shows up as a small crack, a slight lean, or water that takes a little longer to drain than it used to. Catching it in that early stage usually means a $150 to $600 fix instead of a multi-thousand-dollar rebuild. If you've noticed any of the warning signs above on your Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland home, call (509) 351-8404 or [reach out here](/#contact) for a free written estimate.
+Freeze-thaw window well damage rarely announces itself all at once. It shows up as a small crack, a slight lean, or water that takes a little longer to drain than it used to. Catching it in that early stage usually means a $150 to $600 fix instead of a multi-thousand-dollar rebuild. If you've noticed any of the warning signs above on your Lincoln, Waverly, Hickman, Seward, Crete, Beatrice, or Ashland home, call (888) 217-8740 or [reach out here](/#contact) for a free written estimate.

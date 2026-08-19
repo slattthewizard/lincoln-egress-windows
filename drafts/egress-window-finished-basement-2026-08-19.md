@@ -11,7 +11,7 @@ The usual order is egress window first, then finish the basement. Plenty of Linc
 
 The good news: the cut is the same cut. Concrete doesn't care what's on the inside of the wall. What changes is everything around it, and that's where the added cost and the added mess live.
 
-If you're weighing this, call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact) and we'll walk the space before quoting it.
+If you're weighing this, call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact) and we'll walk the space before quoting it.
 
 ## What Changes When the Basement Is Already Finished
 
@@ -138,4 +138,4 @@ Yes, meaningfully, because there's no demolition, no containment, and no restora
 
 Where the window goes decides most of the cost on a finished-basement retrofit, and that call is made standing in the room.
 
-Call [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We install egress windows across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.
+Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We install egress windows across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.

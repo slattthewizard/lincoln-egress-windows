@@ -11,7 +11,7 @@ It's the objection that comes up in about a third of our first conversations, us
 
 That's a fair thing to notice. An egress window is required to be large enough for an adult to climb through, which means it works in both directions by definition. The question worth answering isn't whether that's true, it's what you can do about it without defeating the reason the window is there.
 
-Have questions about a specific install? Call [(509) 351-8404](tel:+15093518404) or [get a free written estimate](/#contact).
+Have questions about a specific install? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact).
 
 ## The Quick Answer
 
@@ -116,4 +116,4 @@ Adding a code-compliant, permitted egress window generally works in your favor, 
 
 The security question and the code question have the same answer: a properly built, properly locking, properly permitted window with a cover that opens from inside.
 
-Call [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we'll talk through glass, hardware, and cover options as part of the quote.
+Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we'll talk through glass, hardware, and cover options as part of the quote.
