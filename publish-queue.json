@@ -251,7 +251,8 @@
   },
   {
     "draft": "drafts/egress-window-finished-basement-2026-08-19.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-20T15:21:25.242472Z"
   },
   {
     "draft": "drafts/block-vs-poured-foundation-egress-2026-08-19.md",
