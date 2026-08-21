@@ -256,7 +256,8 @@
   },
   {
     "draft": "drafts/block-vs-poured-foundation-egress-2026-08-19.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-21T15:20:34.943269Z"
   },
   {
     "draft": "drafts/egress-window-home-value-2026-08-19.md",
