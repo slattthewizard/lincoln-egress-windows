@@ -276,7 +276,8 @@
   },
   {
     "draft": "drafts/egress-window-security-2026-08-19.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-25T15:31:14.420833Z"
   },
   {
     "draft": "drafts/walkout-daylight-basement-egress-2026-08-19.md",
