@@ -11,7 +11,7 @@ If your basement has a door to the back yard, it's tempting to assume the egress
 
 The rule that decides it is narrower than most homeowners expect, and it's about the room, not the basement.
 
-Trying to work out whether your basement plan needs a window? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact).
+Trying to work out whether your basement plan needs a window? Call [(844) 817-0274](tel:+18448170274) or [get a free written estimate](/#contact).
 
 ## The Quick Answer
 
@@ -135,4 +135,4 @@ Not always. If grade at the window sits below the sill, no well is needed. On sl
 
 Five minutes of measuring and a conversation now beats discovering the problem when the inspector walks a finished basement.
 
-Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We work on walkout, daylight, and standard basements across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.
+Call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact). We work on walkout, daylight, and standard basements across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.

@@ -11,7 +11,7 @@ Your basement wall is either poured concrete or concrete block, and which one yo
 
 Both are routine. Neither is a reason to abandon the project. But block walls are less forgiving of a bad cut, and it's worth knowing which you have and what the right approach looks like before you compare quotes, because this is one of the places where a cheap bid means a corner was cut.
 
-Not sure what you've got down there? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact).
+Not sure what you've got down there? Call [(844) 817-0274](tel:+18448170274) or [get a free written estimate](/#contact).
 
 ## The Quick Answer
 
@@ -136,4 +136,4 @@ Usually somewhat, because of the lintel and the slower, more careful removal, bu
 
 The right answer for your basement depends on what the wall is, what shape it's in, and what's sitting above the spot you want the window.
 
-Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We handle [egress window installation](/egress-window-installation-lincoln/) in both block and poured foundations across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice.
+Call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact). We handle [egress window installation](/egress-window-installation-lincoln/) in both block and poured foundations across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice.

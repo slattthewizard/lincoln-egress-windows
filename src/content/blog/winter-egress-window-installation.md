@@ -23,7 +23,7 @@ Your basement bedroom needs an egress window and you're staring at a January clo
 
 That said, cold weather does change the process, the timeline, and sometimes the price. If you're weighing whether to wait until spring or push forward now, here's what actually happens when a crew shows up to cut an egress opening in the middle of a Nebraska winter.
 
-If you're on a deadline, don't wait to find out if it's possible. Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact) and we'll tell you straight whether your project can move forward this month.
+If you're on a deadline, don't wait to find out if it's possible. Call [(844) 817-0274](tel:+18448170274) or [get a free written estimate](/#contact) and we'll tell you straight whether your project can move forward this month.
 
 ## Yes, Winter Egress Window Installation Works in Lincoln
 
@@ -69,7 +69,7 @@ Pricing itself doesn't usually change much by season. What changes is availabili
 
 For a straightforward existing-opening replacement, expect one to two working days on site regardless of season. For a full new cut-in with a window well, plan on three to five working days, with weather occasionally adding a day if a hard freeze or storm delays excavation. Permitting through the City of Lincoln adds its own timeline on top of the physical work, typically a week or two depending on current volume.
 
-Curious what your specific project would run? Our [egress window cost guide](/egress-window-cost/) breaks down pricing by window type, opening size, and well material, or call [(888) 217-8740](tel:+18882178740) for a same-week estimate.
+Curious what your specific project would run? Our [egress window cost guide](/egress-window-cost/) breaks down pricing by window type, opening size, and well material, or call [(844) 817-0274](tel:+18448170274) for a same-week estimate.
 
 ## When Winter Egress Window Installation Makes the Most Sense
 
@@ -125,7 +125,7 @@ If a contractor tells you your specific home isn't a good candidate for a winter
 
 According to the National Weather Service, Lincoln's coldest stretch and deepest frost typically run from late December through February, which is exactly why contractors plan excavation around milder days within that window rather than avoiding winter entirely.
 
-Ready to find out if your project can move forward now? [Request a free written estimate](/#contact) or call [(888) 217-8740](tel:+18882178740). We'll give you a straight answer on timeline and cost before you commit to anything.
+Ready to find out if your project can move forward now? [Request a free written estimate](/#contact) or call [(844) 817-0274](tel:+18448170274). We'll give you a straight answer on timeline and cost before you commit to anything.
 
 ## Frequently Asked Questions
 

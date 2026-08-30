@@ -17,7 +17,7 @@ faq:
   - question: "How long does a window well last before it rusts out?"
     answer: "Galvanized steel wells commonly last 15-25 years before rust becomes a real structural issue, though poor drainage can cut that timeline in half. Polymer and fiberglass wells don't rust at all, which is why a lot of homeowners switch materials when it's time to replace."
   - question: "Is a rusted window well a safety issue, not just a cosmetic one?"
-    answer: "It can be. If the well serves a bedroom egress window, a collapsing or blocked well can interfere with your emergency escape route. A badly rusted well can also let soil and water push against the window frame, which leads to cracked seals and basement leaks over time. Rust in a window well isn't a reason to panic, but it's not something to put off indefinitely either. Whether your situation calls for a quick repair or a full rusted window well replacement, getting an honest read on the damage now is a lot cheaper than dealing with a collapsed well later. Give us a call at (888) 217-8740 or request a free written estimate and we'll tell you exactly where your well stands."
+    answer: "It can be. If the well serves a bedroom egress window, a collapsing or blocked well can interfere with your emergency escape route. A badly rusted well can also let soil and water push against the window frame, which leads to cracked seals and basement leaks over time. Rust in a window well isn't a reason to panic, but it's not something to put off indefinitely either. Whether your situation calls for a quick repair or a full rusted window well replacement, getting an honest read on the damage now is a lot cheaper than dealing with a collapsed well later. Give us a call at (844) 817-0274 or request a free written estimate and we'll tell you exactly where your well stands."
 ---
 Push your thumb against the side of your window well and does it crumble like a stale cracker? That flaking, orange-brown metal is telling you something, and it's not just about looks. A rusted window well can still be structurally sound, or it can be one hard rain away from collapsing into your basement window.
 
@@ -37,7 +37,7 @@ Walk your window well and check for these signs:
 - Dirt or gravel washing into the basement window frame
 - A well that visibly leans or bulges outward
 
-If you're only seeing the first item on that list, a repair is often on the table. If you're seeing three or more, you're probably looking at a rusted window well replacement, and it's worth getting a second opinion before the next big rain. Not sure which category yours falls into? Call [(888) 217-8740](tel:+18882178740) for a free look, or send photos through our [contact form](/#contact) and we'll tell you straight.
+If you're only seeing the first item on that list, a repair is often on the table. If you're seeing three or more, you're probably looking at a rusted window well replacement, and it's worth getting a second opinion before the next big rain. Not sure which category yours falls into? Call [(844) 817-0274](tel:+18448170274) for a free look, or send photos through our [contact form](/#contact) and we'll tell you straight.
 
 ## When a Repair Still Makes Sense
 
@@ -89,7 +89,7 @@ Here's how the two options stack up for a typical Lincoln-area basement window.
 
 If the egress window itself also needs attention, replacing a window in an existing opening typically runs $1,200-$3,000, separate from the well. A full cut-in for a new egress opening, including a code-legal well and permit, usually lands between $3,500 and $7,000, with complete Lincoln jobs that include finishing work commonly totaling $5,500-$9,500. Most rust calls we get, though, are well-only fixes, not full window replacements.
 
-Not sure which bucket your situation falls into? A written estimate takes the guesswork out. [Reach out through our contact form](/#contact) or call [(888) 217-8740](tel:+18882178740) and we'll walk the property with you.
+Not sure which bucket your situation falls into? A written estimate takes the guesswork out. [Reach out through our contact form](/#contact) or call [(844) 817-0274](tel:+18448170274) and we'll walk the property with you.
 
 ## What Happens If You Ignore a Rusted Window Well
 
@@ -141,4 +141,4 @@ Galvanized steel wells commonly last 15-25 years before rust becomes a real stru
 
 It can be. If the well serves a bedroom egress window, a collapsing or blocked well can interfere with your emergency escape route. A badly rusted well can also let soil and water push against the window frame, which leads to cracked seals and basement leaks over time.
 
-Rust in a window well isn't a reason to panic, but it's not something to put off indefinitely either. Whether your situation calls for a quick repair or a full rusted window well replacement, getting an honest read on the damage now is a lot cheaper than dealing with a collapsed well later. Give us a call at [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact) and we'll tell you exactly where your well stands.
+Rust in a window well isn't a reason to panic, but it's not something to put off indefinitely either. Whether your situation calls for a quick repair or a full rusted window well replacement, getting an honest read on the damage now is a lot cheaper than dealing with a collapsed well later. Give us a call at [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact) and we'll tell you exactly where your well stands.

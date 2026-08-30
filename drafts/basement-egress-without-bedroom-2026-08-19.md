@@ -13,7 +13,7 @@ It's usually wrong, and it's the kind of wrong that gets discovered at the inspe
 
 The requirement attaches to two different things. Sleeping rooms need an escape opening. And **basements containing habitable space** need one too, bedroom or not. Miss the second half and you can finish a basement entirely by the book on every other count and still fail.
 
-Planning a basement finish? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact) before you frame.
+Planning a basement finish? Call [(844) 817-0274](tel:+18448170274) or [get a free written estimate](/#contact) before you frame.
 
 ## The Quick Answer
 
@@ -128,4 +128,4 @@ You can physically, and it costs considerably more. Retrofitting into finished w
 
 The question of whether your specific basement plan needs an opening is answered cheaply now and expensively later.
 
-Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.
+Call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.

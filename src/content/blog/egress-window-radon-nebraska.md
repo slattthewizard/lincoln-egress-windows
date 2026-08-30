@@ -25,7 +25,7 @@ Nebraska has some of the higher indoor radon levels in the country, and Lancaste
 
 That's the connection worth understanding. The window itself is not a radon problem. The reason you're installing it usually is.
 
-Planning a basement project? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact).
+Planning a basement project? Call [(844) 817-0274](tel:+18448170274) or [get a free written estimate](/#contact).
 
 ## The Quick Answer
 
@@ -126,4 +126,4 @@ It's worth telling your installer. The sealing around the new opening slightly h
 
 If a basement is becoming living space, the egress window, the sealing, and any radon work all touch the same surfaces. Sequencing them together is much cheaper than revisiting a finished room.
 
-Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.
+Call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact). We install [egress windows](/egress-window-installation-lincoln/) across Lincoln and Lancaster County, plus Waverly, Hickman, Ashland, Crete, Seward, and Beatrice, and we pull the permit as part of the job.

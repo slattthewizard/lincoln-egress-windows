@@ -25,7 +25,7 @@ The dimensional requirements for an egress window don't change when you drive ou
 
 What changes is the paperwork: who issues the permit, what it costs, how long review takes, who inspects, and whether your address is inside a city's jurisdiction at all. Getting that wrong doesn't usually mean redoing the window. It means a delay, and occasionally an awkward conversation about work that was already done.
 
-Building outside Lincoln? Call [(888) 217-8740](tel:+18882178740) or [get a free written estimate](/#contact) and we'll sort out which office your project answers to.
+Building outside Lincoln? Call [(844) 817-0274](tel:+18448170274) or [get a free written estimate](/#contact) and we'll sort out which office your project answers to.
 
 ## The Quick Answer
 
@@ -133,4 +133,4 @@ Yes. We work across Lincoln and Lancaster County plus Waverly, Hickman, Ashland,
 
 Working out whether you answer to a city or a county is a five-minute phone call, and it's the first thing we do on any project outside Lincoln proper.
 
-Call [(888) 217-8740](tel:+18882178740) or [request a free written estimate](/#contact). We pull the permit as part of the job, wherever the property sits.
+Call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact). We pull the permit as part of the job, wherever the property sits.
