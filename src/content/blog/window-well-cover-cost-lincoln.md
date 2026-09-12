@@ -25,7 +25,7 @@ This guide walks through what pushes a cover toward the low end of that range ve
 
 If you're still deciding what style of cover fits your well, our [window well cover types](/blog/window-well-cover-types/) guide walks through flat, dome, mesh, and custom options in more depth than we'll cover here. This article is about the number on the invoice, not the shape of the plastic.
 
-If you already know your well needs a new cover and just want a real number, call [(844) 817-0274](tel:+18448170274) or [request a free estimate](/#contact). We measure the well on the same visit and give you a price before we start anything, in writing, so there's no guessing after the fact.
+If you already know your well needs a new cover and just want a real number, call [(402) 261-0485](tel:+14022610485) or [request a free estimate](/#contact). We measure the well on the same visit and give you a price before we start anything, in writing, so there's no guessing after the fact.
 
 ## What Drives Window Well Cover Cost Up or Down
 
@@ -70,7 +70,7 @@ An older well in Crete told a different story. Decades of settling had pushed it
 
 Then there's a 1970s ranch in Waverly, on its way to a home inspection ahead of a sale. The basement bedroom well had rust working through the paint and a gap where the wall had eased away from the foundation. No inspector was going to sign off on a new cover bolted to a failing well, so the job turned into a full replacement, cover included, for $875.
 
-If any of that sounds close to your situation, [request a free written estimate](/#contact) or call **(844) 817-0274**. We'll tell you honestly whether you're looking at a cover or a bigger fix.
+If any of that sounds close to your situation, [request a free written estimate](/#contact) or call **(402) 261-0485**. We'll tell you honestly whether you're looking at a cover or a bigger fix.
 
 ## Sizing and Fit: Why Guessing Costs You Twice
 
@@ -97,7 +97,7 @@ Call a professional if any of these apply:
 - Wiring, an outdoor outlet, or conduit runs near the well
 - You need the work documented for a home sale, appraisal, or inspection
 
-Concrete cutting and structural repairs near a foundation opening need a licensed contractor, and so does anything electrical close to a well that collects rainwater. If you're not sure which side of that line your project falls on, [get a free estimate](/#contact) or call **(844) 817-0274**. We'll tell you straight whether it's a cover, a well, or both.
+Concrete cutting and structural repairs near a foundation opening need a licensed contractor, and so does anything electrical close to a well that collects rainwater. If you're not sure which side of that line your project falls on, [get a free estimate](/#contact) or call **(402) 261-0485**. We'll tell you straight whether it's a cover, a well, or both.
 
 ## Frequently Asked Questions
 

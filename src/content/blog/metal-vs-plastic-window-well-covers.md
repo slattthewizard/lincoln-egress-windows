@@ -25,7 +25,7 @@ Homeowners in Lincoln, Waverly, and Hickman ask us this almost every week, usual
 
 This is strictly about the cover material, not the well underneath it. If you're also comparing steel vs polyethylene for the well walls themselves, that's a separate product with its own tradeoffs; see our [window well material comparison](/blog/window-well-material-comparison/) guide. And if you haven't settled on a cover style yet (flat, dome, hinged, or custom) our [window well cover types](/blog/window-well-cover-types/) post walks through the shapes before you get to material.
 
-If you already know your cover needs to go, [get a free written estimate](/#contact) or call **(844) 817-0274**. We'll tell you straight whether metal or plastic makes sense for your well, your yard, and your budget.
+If you already know your cover needs to go, [get a free written estimate](/#contact) or call **(402) 261-0485**. We'll tell you straight whether metal or plastic makes sense for your well, your yard, and your budget.
 
 ## Metal vs Plastic Window Well Covers: The Real Tradeoff
 
@@ -87,7 +87,7 @@ Polycarbonate and acrylic domes are easier to release from inside, which is good
 
 The safest approach we see in Lincoln yards is a cover with an interior release that needs no tool, paired with a latch that resists outside tampering but doesn't require force to open from inside. That combination exists in both materials. It just has to be specified, not assumed. The [Consumer Product Safety Commission](https://www.cpsc.gov) publishes general guidance on window well hazards worth a look if young kids or pets use the yard.
 
-If you'd rather have someone walk your well and tell you which option actually fits, [reach out through our contact page](/#contact) or call **(844) 817-0274** for a free written estimate.
+If you'd rather have someone walk your well and tell you which option actually fits, [reach out through our contact page](/#contact) or call **(402) 261-0485** for a free written estimate.
 
 ## Metal vs Plastic Window Well Covers: Cost Comparison
 

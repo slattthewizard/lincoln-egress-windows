@@ -11,7 +11,7 @@ A homeowner in Waverly has a 1970s ranch with a crawl space under half the house
 
 An egress window crawl space project usually lives or dies on ceiling height and how the space is legally classified, not on the size of the glass. A lot of homeowners assume egress is the hard part and everything else is a formality. It's the other way around. Get the ceiling height and the room classification wrong and no window fixes it.
 
-If you've got a crawl space, a partial basement, or a mix of both and you're trying to figure out what's actually possible, call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact). We'll tell you straight whether egress is even the next step for your specific space.
+If you've got a crawl space, a partial basement, or a mix of both and you're trying to figure out what's actually possible, call [(402) 261-0485](tel:+14022610485) or [request a free written estimate](/#contact). We'll tell you straight whether egress is even the next step for your specific space.
 
 ## Why the Ceiling Is the Real Constraint, Not the Window
 
@@ -77,7 +77,7 @@ If your space is a true crawl space and you want it to become finished, habitabl
 
 If your space is a partial basement with a full-height section already in place, you can likely skip the foundation phase altogether and go straight to egress. Our [egress window cost](/egress-window-cost/) guide breaks down pricing by scenario so you can see which category your project falls into before you call anyone.
 
-Either way, get the classification right before you spend money on a window. Call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact) and we'll tell you honestly which side of that line your space is on.
+Either way, get the classification right before you spend money on a window. Call [(402) 261-0485](tel:+14022610485) or [request a free written estimate](/#contact) and we'll tell you honestly which side of that line your space is on.
 
 ## Frequently Asked Questions
 

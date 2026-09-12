@@ -13,7 +13,7 @@ Window well cover safety has to answer both questions at once. A cover that only
 
 This article isn't about which cover style looks best against your foundation. For that comparison, see our guide to [window well cover types](/blog/window-well-cover-types/). This is about the two safety rules that override style entirely: does the cover stop a fall, and can a person still get out from underneath it.
 
-If you're standing over an open well right now trying to decide what to buy, call [(844) 817-0274](tel:+18448170274) or [request a free written estimate](/#contact) and we'll walk you through what fits your specific well.
+If you're standing over an open well right now trying to decide what to buy, call [(402) 261-0485](tel:+14022610485) or [request a free written estimate](/#contact) and we'll walk you through what fits your specific well.
 
 ## Window Well Cover Safety Starts With Two Different Goals
 
@@ -67,7 +67,7 @@ That doesn't mean the fall hazard goes away. A four-foot drop into a utility wel
 
 A family in Crete asked us to look at a well outside their mechanical room after their dog nearly went in chasing a squirrel. Because no bedroom sat behind that window, we installed a secured, walk-on rated grate without an interior release, at $260 installed, and it has held up through two winters without issue.
 
-If you're not sure which category your well falls into, call [(844) 817-0274](tel:+18448170274) or send a couple of photos through [/#contact](/#contact) and we'll tell you before you buy anything.
+If you're not sure which category your well falls into, call [(402) 261-0485](tel:+14022610485) or send a couple of photos through [/#contact](/#contact) and we'll tell you before you buy anything.
 
 ## Depth Is the Hazard: Why a Well Over 44 Inches Needs a Ladder Too
 

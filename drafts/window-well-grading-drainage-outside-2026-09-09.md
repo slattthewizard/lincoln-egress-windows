@@ -13,7 +13,7 @@ That six-foot ring does more work than most homeowners realize. Get the slope, t
 
 We've already covered [how a window well's own drain and gravel bed are supposed to work](/blog/how-window-well-drainage-works/) in a separate guide. This one skips the mechanics inside the well and goes straight to the yard: the grading, downspouts, and landscaping calls that send water toward a window well, or keep it away for good.
 
-If you've already fixed the yard and the well still floods, that's a different problem, and one worth a phone call before you regrade a second time for nothing. Reach us at [(844) 817-0274](tel:+18448170274) and we'll help you figure out whether it's the yard or the well.
+If you've already fixed the yard and the well still floods, that's a different problem, and one worth a phone call before you regrade a second time for nothing. Reach us at [(402) 261-0485](tel:+14022610485) and we'll help you figure out whether it's the yard or the well.
 
 ## Window Well Drainage Starts With the Yard, Not the Drain
 
@@ -81,7 +81,7 @@ That last row is the one that's actually ours. If the yard checks out, meaning t
 
 We cover the well's side of this in another guide: what a [flooded window well](/blog/flooded-window-well/) usually means once the yard is ruled out. If that sounds closer to what you're dealing with, start there instead.
 
-For well work itself, from resizing to a full replacement, see our [window well installation](/window-well-installation-lincoln/) page. If water damage has already reached the window and frame, our [basement window replacement](/basement-window-replacement-lincoln/) page covers what that job involves. Either way, if the yard is graded right and water is still getting in, call [(844) 817-0274](tel:+18448170274) and we'll take a look at the well itself.
+For well work itself, from resizing to a full replacement, see our [window well installation](/window-well-installation-lincoln/) page. If water damage has already reached the window and frame, our [basement window replacement](/basement-window-replacement-lincoln/) page covers what that job involves. Either way, if the yard is graded right and water is still getting in, call [(402) 261-0485](tel:+14022610485) and we'll take a look at the well itself.
 
 ## Frequently Asked Questions
 

@@ -11,7 +11,7 @@ A window well cover that shrugs off every storm in October can be lying in piece
 
 That's the part most homeowners miss. A cover doesn't fail because it's a bad product. It fails because the conditions around it changed while nobody was checking. Understanding what actually builds up in a window well over a Nebraska winter is the difference between a cover that lasts a decade and one that cracks by January.
 
-If your cover has already split, sagged, or popped loose from its clips, don't wait on it. [Call (844) 817-0274](tel:+18448170274) or [request a free estimate](/#contact) before the next storm adds more weight to a cover that's already compromised.
+If your cover has already split, sagged, or popped loose from its clips, don't wait on it. [Call (402) 261-0485](tel:+14022610485) or [request a free estimate](/#contact) before the next storm adds more weight to a cover that's already compromised.
 
 ## Why a Window Well Cover Snow Load Problem Doesn't Show Up Until February
 
@@ -88,7 +88,7 @@ Clearing a window well after a storm is usually a homeowner job, as long as you'
 
 Concrete work, foundation repair, or anything involving wiring or a well light near a flooded or ice-damaged well isn't a DIY job. Call a professional for that part and handle the routine snow clearing yourself.
 
-If your cover won't open freely from inside after a storm, or you're not sure it would in an emergency, [get in touch with our team](/#contact) or call **(844) 817-0274**. We can check the fit, the hardware, and whether the well itself needs a properly supported cover before winter tests it again.
+If your cover won't open freely from inside after a storm, or you're not sure it would in an emergency, [get in touch with our team](/#contact) or call **(402) 261-0485**. We can check the fit, the hardware, and whether the well itself needs a properly supported cover before winter tests it again.
 
 ## Frequently Asked Questions
 

@@ -25,7 +25,7 @@ Window well size requirements are a separate set of numbers from the window open
 
 This guide covers the well side only: how big a window well has to be, what happens when it comes up short, and what it typically costs to fix. For the window opening's own dimensions, our [egress window minimum size requirements](/blog/egress-window-size-requirements-nebraska/) post covers that ground in full. Read it first if you haven't measured the window itself yet, since this article assumes the window already passes.
 
-If you already suspect your well is too small, call Lincoln Egress Windows at [(844) 817-0274](tel:+18448170274) or [reach out through our contact page](/#contact) for a straight answer before a buyer's inspector finds the problem for you.
+If you already suspect your well is too small, call Lincoln Egress Windows at [(402) 261-0485](tel:+14022610485) or [reach out through our contact page](/#contact) for a straight answer before a buyer's inspector finds the problem for you.
 
 ## Window Size vs. Window Well Size Requirements: Two Different Rules
 
@@ -75,7 +75,7 @@ Then there's a homeowner in Seward, getting ready for a rental license inspectio
 
 Costs move higher only when the well problem forces changes to the foundation opening itself, not just the excavation around it. If enlarging the well also means moving or resizing the window opening in the wall, that becomes a cut-in job, typically $3,500 to $7,000, or up to $9,500 with full interior finishing. Our [window well installation](/window-well-installation-lincoln/) service page covers what a straight well replacement involves. Our [egress window installation](/egress-window-installation-lincoln/) page covers the larger cut-in scenario, for when the opening itself needs to change too. For a closer look at what drives the price either way, our [window well installation cost](/blog/window-well-installation-cost/) guide breaks down the variables in more detail.
 
-Not sure which situation applies to your well? Call [(844) 817-0274](tel:+18448170274) and we'll tell you plainly whether this is a well swap or a bigger job before you commit to either one.
+Not sure which situation applies to your well? Call [(402) 261-0485](tel:+14022610485) and we'll tell you plainly whether this is a well swap or a bigger job before you commit to either one.
 
 ## Ladders, Steps, and the Well's Clear Opening
 
@@ -93,7 +93,7 @@ Every number in this article comes from the IRC, which Lincoln and Lancaster Cou
 
 It's still worth confirming the exact requirement on your specific permit before digging starts. Local building departments occasionally apply additional review on soil conditions, drainage, or setback from a property line that can affect where a well can sit even when its size is correct. The [City of Lincoln](https://www.lincoln.ne.gov) administers permits and inspections for building and safety matters, and a quick call before you start avoids a surprise at final inspection. A Lincoln building permit for well or egress work typically runs $75 to $200, which is nothing next to the cost of redoing an excavation.
 
-If you'd rather skip the back and forth and just get a number you can trust, [contact us](/#contact) or call [(844) 817-0274](tel:+18448170274). We measure the well against the actual code minimums before we quote, so you're not guessing whether 34 inches is close enough.
+If you'd rather skip the back and forth and just get a number you can trust, [contact us](/#contact) or call [(402) 261-0485](tel:+14022610485). We measure the well against the actual code minimums before we quote, so you're not guessing whether 34 inches is close enough.
 
 ## Frequently Asked Questions
 

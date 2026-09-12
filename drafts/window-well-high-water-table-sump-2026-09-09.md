@@ -13,7 +13,7 @@ That's the reality on parts of plenty of Lincoln-area lots, especially out towar
 
 A window well drain has to discharge somewhere. On a dry, well-drained lot, that somewhere is usually just the surrounding soil, and gravity does the rest. On a wet lot, gravity alone isn't enough, and the well needs a real destination: the perimeter drain tile that feeds your sump pit, a dedicated dry well, or in tougher cases, a small pump.
 
-If your well already sits full more days than it drains, [get a free written estimate](/#contact) or call [(844) 817-0274](tel:+18448170274) and we'll look at what's actually happening underground before anything gets dug up.
+If your well already sits full more days than it drains, [get a free written estimate](/#contact) or call [(402) 261-0485](tel:+14022610485) and we'll look at what's actually happening underground before anything gets dug up.
 
 ## What a High Water Table Does to Window Well Drainage
 
@@ -57,7 +57,7 @@ A split-level in Hickman was a different story: no sump anywhere near the well, 
 
 A pump comes into the picture when the water table itself, not just the absence of a drain system, is working against you. If a well keeps filling from underneath no matter how well the gravel and drain line are built, more gravel won't fix that. A small pump set to kick on before the water reaches window sill height is the honest answer at that point, even though it's the option with the most moving parts to maintain.
 
-Not sure which of these three fits your lot? [Get a free written estimate](/#contact) or call [(844) 817-0274](tel:+18448170274) and we'll tell you plainly which option makes sense before any digging starts.
+Not sure which of these three fits your lot? [Get a free written estimate](/#contact) or call [(402) 261-0485](tel:+14022610485) and we'll tell you plainly which option makes sense before any digging starts.
 
 ## Why This Matters More Once You Cut a New Egress Opening
 
@@ -101,4 +101,4 @@ Not usually first. A pump becomes the right answer when the water table itself i
 
 ### Who fixes the sump pump and perimeter drain tile if that's the real problem?
 
-That's a waterproofing contractor's scope, not ours. Our part is the window well, the window, and the well's own drain line up to where it connects into your existing system. If an evaluation turns up a failing sump pump or drain tile, we'll tell you directly and point you to that work, and you can still [reach out to us](/#contact) or call [(844) 817-0274](tel:+18448170274) for the well and window side of the job.
+That's a waterproofing contractor's scope, not ours. Our part is the window well, the window, and the well's own drain line up to where it connects into your existing system. If an evaluation turns up a failing sump pump or drain tile, we'll tell you directly and point you to that work, and you can still [reach out to us](/#contact) or call [(402) 261-0485](tel:+14022610485) for the well and window side of the job.

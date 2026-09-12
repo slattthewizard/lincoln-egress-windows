@@ -19,7 +19,7 @@ Grade changes matter too. A deck built over or beside a well, a patio poured clo
 
 That's why a custom cover, usually in the upper part of the $150 to $600 range for covers and ladders, earns its money on these older or altered wells. A stock cover is cheaper up front and works fine on a well that was built to a standard shape. A custom cover costs more because someone measures your actual well instead of pulling a catalog size, and that's the whole point once a well has bowed or shifted. A cover that's cracked or broken outright is a different problem with its own fix; see our page on [cracked window well cover replacement](/blog/cracked-window-well-cover-replacement/) for that one.
 
-If you'd rather have someone measure the well for you than second-guess a tape measure, call **(844) 817-0274** or reach us at [/#contact](/#contact) before you order anything.
+If you'd rather have someone measure the well for you than second-guess a tape measure, call **(402) 261-0485** or reach us at [/#contact](/#contact) before you order anything.
 
 ## Window Well Cover Measurements: Width at the Wall, Not the Widest Bow
 
@@ -53,7 +53,7 @@ Covers attach one of two ways, and it changes what you need to measure. A ground
 
 A ground lip cover needs an accurate outer perimeter, since that's the surface it rests on. A foundation mount cover needs an accurate distance from the mounting point on the wall to the well's far edge, plus its height above grade, so it clears the well and anything planted or piled nearby.
 
-Take a photo of the well from a few angles before you measure, then note on the photo which edge each number came from. That sounds like overkill until you're on the phone with an installer two weeks later trying to remember whether the 34 inch figure was the wall side or the front lip. If you're not sure which mount style yours actually is, a quick call to **(844) 817-0274** clears it up before you measure the wrong edge.
+Take a photo of the well from a few angles before you measure, then note on the photo which edge each number came from. That sounds like overkill until you're on the phone with an installer two weeks later trying to remember whether the 34 inch figure was the wall side or the front lip. If you're not sure which mount style yours actually is, a quick call to **(402) 261-0485** clears it up before you measure the wrong edge.
 
 ## Overhang and the Escape Opening Trap With an Oversized Cover
 
@@ -91,7 +91,7 @@ The same handful of problems usually trace back to fit, not the product:
 
 Once you have those five numbers and know whether the well is square, choosing between a flat, dome, or hinged style is a separate decision; see our breakdown of [window well cover types](/blog/window-well-cover-types/) for that. If the well itself is bowed, undersized, or won't hold a cover no matter how it's cut, that's a well problem, not a cover problem, and worth a call about [window well installation in Lincoln](/window-well-installation-lincoln/) before you spend money on a cover for a well that needs replacing first.
 
-If you'd rather send us your five numbers and a couple of photos than order twice, call **(844) 817-0274** or use [/#contact](/#contact) and we'll tell you straight whether a stock cover will work or whether you're looking at a custom one.
+If you'd rather send us your five numbers and a couple of photos than order twice, call **(402) 261-0485** or use [/#contact](/#contact) and we'll tell you straight whether a stock cover will work or whether you're looking at a custom one.
 
 ## Frequently Asked Questions
 

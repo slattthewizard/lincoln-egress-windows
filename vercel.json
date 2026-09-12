@@ -7,7 +7,9 @@
       "destination": "https://lincolnegresswindows.com/$1",
       "statusCode": 308
     },
-    { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "statusCode": 301 }
+    { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "statusCode": 301 },
+    { "source": "/disclosure", "destination": "/terms/", "statusCode": 301 },
+    { "source": "/disclosure/(.*)", "destination": "/terms/", "statusCode": 301 }
   ],
   "headers": [
     {

@@ -21,7 +21,7 @@ If you haven't settled on a window style yet, our comparison of [casement, slide
 
 Nebraska follows the International Residential Code for emergency escape openings: 5.7 sq ft of net clear opening, a minimum 24 in clear height, a minimum 20 in clear width, and a sill no higher than 44 in above the finished floor. None of those numbers change because you picked a slider instead of a casement. The code doesn't grade sliders on a curve. It measures the opening you actually get when the sash is all the way open, and for a slider that's roughly half the unit.
 
-If you're not sure whether your current slider would clear that bar, call [(844) 817-0274](tel:+18448170274) or [request a free measurement](/#contact) before you assume it's fine.
+If you're not sure whether your current slider would clear that bar, call [(402) 261-0485](tel:+14022610485) or [request a free measurement](/#contact) before you assume it's fine.
 
 ## The 20 Inch and 24 Inch Rules Still Apply to a Slider
 
@@ -74,7 +74,7 @@ If the window well also needs to be replaced or sized up to keep pace with a wid
 
 An owner in Seward getting ready to sell a basement bedroom ran into the well side of this. The slider itself was wide enough, but the well was too narrow to meet the 36 in projection rule once the wider sash was measured against it. Replacing just the well came to just under $1,500, far cheaper than resizing the window opening would have been.
 
-For the fuller breakdown of what drives egress pricing across styles, see our [egress window cost breakdown](/blog/egress-window-cost-breakdown/). Ready to get an exact number for your slider? [Contact us](/#contact) or call [(844) 817-0274](tel:+18448170274) for a measurement.
+For the fuller breakdown of what drives egress pricing across styles, see our [egress window cost breakdown](/blog/egress-window-cost-breakdown/). Ready to get an exact number for your slider? [Contact us](/#contact) or call [(402) 261-0485](tel:+14022610485) for a measurement.
 
 ## Permits, Inspection, and Getting the Slider Right the First Time
 
