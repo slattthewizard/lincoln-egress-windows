@@ -1,0 +1,156 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+// Cover posts still in publish-queue.json. Each link only renders once the
+// publisher has moved its draft into src/content/blog, so nothing points at a 404.
+const published = new Set((await getCollection('blog')).map((p) => p.slug));
+const queuedGuides = [
+  { slug: 'egress-window-well-cover-code', label: 'What code says about covers on egress window wells' },
+  { slug: 'custom-window-well-covers', label: 'Custom window well covers' },
+  { slug: 'bubble-vs-flat-window-well-covers', label: 'Bubble vs. flat window well covers' },
+  { slug: 'locking-window-well-covers', label: 'Locking window well covers' },
+].filter((g) => published.has(g.slug));
+---
+
+<Layout
+  title="Window Well Covers Lincoln NE | Lincoln Egress Windows"
+  description="Window well covers in Lincoln, NE: stock and custom covers measured, fitted and replaced, with egress-safe release. Most covers $150-$600. Call (402) 261-0485."
+  canonical="https://lincolnegresswindows.com/window-well-covers-lincoln/"
+>
+<Fragment slot="head">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Window Well Covers in Lincoln, NE", "description": "Window well covers in Lincoln, NE: stock and custom covers measured, fitted and replaced, with egress-safe release. Most covers $150-$600. Call (402) 261-0485.", "url": "https://lincolnegresswindows.com/window-well-covers-lincoln/", "provider": {"@type": ["GeneralContractor", "LocalBusiness"], "@id": "https://lincolnegresswindows.com/#organization", "name": "Lincoln Egress Windows", "url": "https://lincolnegresswindows.com", "logo": {"@type": "ImageObject", "url": "https://lincolnegresswindows.com/images/og-image.webp"}, "priceRange": "$$", "telephone": "(402) 261-0485", "email": "info@lincolnegresswindows.com", "address": {"@type": "PostalAddress", "addressLocality": "Lincoln", "addressRegion": "NE", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 40.8136, "longitude": -96.7026}, "areaServed": [{"@type": "City", "name": "Lincoln", "addressRegion": "NE"}, {"@type": "City", "name": "Waverly", "addressRegion": "NE"}, {"@type": "City", "name": "Hickman", "addressRegion": "NE"}, {"@type": "City", "name": "Seward", "addressRegion": "NE"}, {"@type": "City", "name": "Crete", "addressRegion": "NE"}, {"@type": "City", "name": "Beatrice", "addressRegion": "NE"}, {"@type": "City", "name": "Ashland", "addressRegion": "NE"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://lincolnegresswindows.com/"}, {"@type": "ListItem", "position": 2, "name": "Window Well Covers in Lincoln, NE", "item": "https://lincolnegresswindows.com/window-well-covers-lincoln/"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does a window well cover cost in Lincoln?", "acceptedAnswer": {"@type": "Answer", "text": "Most covers run $150 to $600 installed, depending on the size of the well, the material, and whether the cover needs a hinge or a support frame. A custom cover for an odd-shaped or oversized well is quoted per well after we measure it. If the well itself is rusted or bowed, a well replacement runs $600 to $1,500 and the cover goes on with it."}}, {"@type": "Question", "name": "Can a window well cover go over an egress window?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, as long as someone inside can open or remove it without a key, a tool, special knowledge, or more force than it takes to open the window. That is the rule in IRC R310.4, which Nebraska uses. A cover that is screwed down, padlocked, or too heavy to push up turns the egress window into a trap, so we check how every cover over an egress well releases from below."}}, {"@type": "Question", "name": "Do you repair window well covers or only replace them?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on what failed. A loose fastener or a bent hinge can often be reset. A cracked, yellowed, or brittle polycarbonate sheet has to be replaced, because a patched sheet will not carry snow or a person's weight. We will tell you which one you are looking at before we price anything."}}, {"@type": "Question", "name": "Will a clear cover hold snow in a Nebraska winter?", "acceptedAnswer": {"@type": "Answer", "text": "A small flat sheet over a narrow well usually does. Wider egress wells need a domed shape, a thicker sheet, or a support frame underneath, or the cover sags and cracks under wet snow. We size the cover to the well span rather than just the outline."}}, {"@type": "Question", "name": "Do I measure the well myself or do you?", "acceptedAnswer": {"@type": "Answer", "text": "We measure it during the free estimate, which avoids ordering a cover that is an inch short. If you want a rough number first, our guide on how to measure a window well cover walks through the width, projection, and shape you need."}}]}</script>
+<style is:global>
+  .rich p { font-size: 16px; line-height: 1.8; color: #555; margin: 0 0 16px; }
+  .rich ul { padding-left: 20px; margin: 0 0 16px; }
+  .rich li { font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 8px; }
+  .rich strong { color: #2B3A44; }
+  .rich a { color: #1273A8; font-weight: 600; text-decoration: none; }
+  .rich a:hover { text-decoration: underline; }
+</style>
+</Fragment>
+
+<nav aria-label="Breadcrumb" style="max-width:1180px;margin:0 auto;padding:16px 24px;">
+  <ol style="list-style:none;padding:0;margin:0;display:flex;gap:8px;font-size:13px;color:#888;">
+    <li><a href="/" style="color:#1273A8;text-decoration:none;">Home</a></li>
+    <li>/</li>
+    <li style="color:#2B3A44;">Window Well Covers in Lincoln, NE</li>
+  </ol>
+</nav>
+<section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 65%, #08344B 100%);padding:72px 24px;">
+  <div class="hero-grid" style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:56px;align-items:center;">
+    <div>
+      <span style="display:inline-block;margin-bottom:12px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;background:rgba(143,208,234,0.18);color:#8FD0EA;border:1px solid rgba(143,208,234,0.3);">Our Services</span>
+      <h1 style="font-family:'Nunito Sans',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,52px);margin:0 0 18px;">Window Well Covers in Lincoln, NE</h1>
+      <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Stock and custom covers measured to your well and built to carry Nebraska snow. Over an egress well, they still push open from inside.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href="tel:+14022610485" class="btn-cream">Call Now — (402) 261-0485</a>
+        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+      </div>
+    </div>
+    <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
+      <img src="/images/service-3.webp" alt="Window well with a clear cover and escape ladder in Lincoln, NE" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr !important; } .hero-img { max-height: 320px; } }
+</style>
+<section style="padding:72px 24px 40px;"><div style="max-width:860px;margin:0 auto;"><div class="rich"><p>A window well cover keeps rain, leaves, and snow out of the pit and keeps kids and pets from falling in. It also sits over what may be the only way out of a basement bedroom. We measure, fit, and replace <strong>window well covers in Lincoln</strong> and the surrounding towns, on standard galvanized wells and on oversized or odd-shaped egress wells that no stock cover fits.</p><p>Most covers run <strong>$150 to $600</strong> installed. Custom covers are quoted per well once we've measured it. Call <strong>(402) 261-0485</strong> for a free written estimate. If the cover is fine and the well behind it is the real problem, we'll tell you that too.</p></div></div></section>
+<section style="padding:0 24px 64px;"><div style="max-width:1100px;margin:0 auto;">
+    <span class="kicker">What We Handle</span>
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 28px;">Cover Work We Do</h2>
+    <div class="feat-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 8px;">Clear flat and bubble covers</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Polycarbonate covers that let daylight into the basement. Flat sheets suit narrow wells. Domed bubble covers shed snow and leave more headroom over deeper wells.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 8px;">Metal grate covers</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Steel grates take more weight and stand up to foot traffic near walkways, but rain and leaves fall straight through them.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 8px;">Custom-sized covers</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Extra-wide egress wells, tiered wells, and non-standard shapes get a cover built to the measured outline. These are quoted per well.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 8px;">Hinged egress covers</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Covers over an egress window that lift or swing open from below, so someone inside can get out without a key or a tool.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 8px;">Cracked cover replacement</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Sun and cold leave polycarbonate yellow and brittle. A cracked sheet won't hold snow or a person's weight, so we replace it rather than patch it.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 8px;">Hinge and fastener repair</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">A cover that rattles, slides off, or won't sit flat often needs its hinges or fasteners reset, not a whole new cover.</p>
+      </div>
+</div>
+<style>
+  @media (max-width: 860px) { .feat-grid { grid-template-columns: 1fr !important; } }
+</style>
+  </div></section>
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">Covers over egress wells: the inside-release rule</h2>
+    <div class="rich"><p>If the well serves an egress window, the cover is part of the escape route. <a href="https://up.codes/viewer/nebraska/irc-2018/chapter/3/building-planning#R310.4" target="_blank" rel="noopener">IRC R310.4</a>, the code Nebraska uses, says a cover over a well that serves an emergency escape opening has to be releasable or removable from the inside without a key, a tool, special knowledge, or more force than it takes to open the window itself. The cover also can't shrink the clear opening the window and well are required to give.</p><ul><li>A cover screwed or bolted to the well from outside fails that test.</li><li>So does a padlock or keyed latch. If you want a cover that locks, it has to unlock by hand from below.</li><li>A heavy, oversized sheet can fail with no lock at all if a child or an older adult can't push it up from inside the well.</li></ul><p>We check how every cover over an egress well opens from below before we leave the job. If you're not sure about the one you have now, we can look at it during a free estimate.</p></div>
+  </div>
+</section>
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">What a window well cover costs in Lincoln</h2>
+    <div class="rich"><p>Most covers we install land between <strong>$150 and $600</strong>. Where yours falls depends on the size of the well, the material, and whether the cover needs a hinge or a support frame to carry snow. A small stock cover on a standard well sits at the low end. A wide egress well with a hinged, load-rated cover sits toward the top.</p><p>Custom covers for odd-shaped, tiered, or extra-wide wells are <strong>quoted per well</strong>, because the price depends on the outline we measure. If the well itself is rusted through, bowed, or settled, a new cover won't seat properly. The fix then is a well replacement at $600 to $1,500, with the cover fitted to the new well. Our <a href="/blog/window-well-cover-cost-lincoln/">window well cover cost guide</a> breaks the range down further, and the <a href="/egress-window-cost/">egress window cost</a> page covers the bigger jobs.</p></div>
+  </div>
+</section>
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">Snow, sizing, and picking the right cover</h2>
+    <div class="rich"><p>Lincoln winters put real weight on a cover. A thin flat sheet over a narrow well usually holds up. Stretch that same sheet over a wide egress well and it sags under wet snow, then cracks. Wider wells need a domed shape, a thicker sheet, or a frame underneath, so we size the cover to the span of the well, not just its outline.</p><p>Fit matters too. A cover that's an inch short lets water and leaves in around the edge and can slide off. We measure the width, the projection from the foundation, and the shape of the well rim before ordering anything. If you'd like to compare options first, these guides go deeper:</p><ul><li><a href="/blog/window-well-cover-types/">Window well cover types</a></li><li><a href="/blog/metal-vs-plastic-window-well-covers/">Metal vs. plastic window well covers</a></li><li><a href="/blog/window-well-cover-snow-load-nebraska/">Window well cover snow load in Nebraska</a></li><li><a href="/blog/how-to-measure-window-well-cover/">How to measure a window well cover</a></li><li><a href="/blog/cracked-window-well-cover-replacement/">Cracked window well cover replacement</a></li>{queuedGuides.map((g) => <li><a href={`/blog/${g.slug}/`}>{g.label}</a></li>)}</ul></div>
+  </div>
+</section>
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">When the cover isn't the problem</h2>
+    <div class="rich"><p>A cover problem is often a well problem. If water still collects in the pit with a good cover on, the gravel base or drain is usually clogged or missing. If the cover won't sit flat because the well wall has bowed inward, no cover will fix it.</p><p>In those cases the right job is a new or rebuilt well, and our <a href="/window-well-installation-lincoln/">window well installation</a> page explains what that involves. We do window wells, covers, and egress windows. If water is coming through the foundation wall itself, you need a waterproofing contractor, and we'll say so.</p></div>
+  </div>
+</section>
+<section style="padding:72px 24px;background:#EAF5FB;">
+  <div style="max-width:860px;margin:0 auto;">
+    <span class="kicker">FAQ</span>
+    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 32px;">Frequently Asked Questions</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 10px;">How much does a window well cover cost in Lincoln?</h3>
+        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">Most covers run $150 to $600 installed, depending on the size of the well, the material, and whether the cover needs a hinge or a support frame. A custom cover for an odd-shaped or oversized well is quoted per well after we measure it. If the well itself is rusted or bowed, a well replacement runs $600 to $1,500 and the cover goes on with it.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 10px;">Can a window well cover go over an egress window?</h3>
+        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">Yes, as long as someone inside can open or remove it without a key, a tool, special knowledge, or more force than it takes to open the window. That is the rule in IRC R310.4, which Nebraska uses. A cover that is screwed down, padlocked, or too heavy to push up turns the egress window into a trap, so we check how every cover over an egress well releases from below.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 10px;">Do you repair window well covers or only replace them?</h3>
+        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">It depends on what failed. A loose fastener or a bent hinge can often be reset. A cracked, yellowed, or brittle polycarbonate sheet has to be replaced, because a patched sheet will not carry snow or a person's weight. We will tell you which one you are looking at before we price anything.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 10px;">Will a clear cover hold snow in a Nebraska winter?</h3>
+        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">A small flat sheet over a narrow well usually does. Wider egress wells need a domed shape, a thicker sheet, or a support frame underneath, or the cover sags and cracks under wet snow. We size the cover to the well span rather than just the outline.</p>
+      </div>
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+        <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 10px;">Do I measure the well myself or do you?</h3>
+        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">We measure it during the free estimate, which avoids ordering a cover that is an inch short. If you want a rough number first, our guide on <a href="/blog/how-to-measure-window-well-cover/" style="color:#1273A8;font-weight:600;text-decoration:none;">how to measure a window well cover</a> walks through the width, projection, and shape you need.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section style="background:linear-gradient(135deg, #0E4D6E 0%, #16648C 50%, #0E4D6E 100%);padding:64px 24px;text-align:center;">
+  <h2 style="font-family:'Nunito Sans',sans-serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;margin-bottom:16px;">Need a Window Well Cover in Lincoln & Southeast Nebraska?</h2>
+  <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. We measure the well and give you a number before any work starts.</p>
+  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <a href="tel:+14022610485" class="btn-cream">Call Now — (402) 261-0485</a>
+    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+  </div>
+</section>
+
+</Layout>
