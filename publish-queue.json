@@ -446,7 +446,8 @@
   },
   {
     "draft": "drafts/how-to-measure-egress-window-2026-11-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-25T23:23:25.246106Z"
   },
   {
     "draft": "drafts/egress-window-size-chart-2026-11-23.md",
