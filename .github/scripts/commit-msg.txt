@@ -1,1 +1,1 @@
-Publish blog post: how-to-measure-egress-window
+Publish blog post: egress-window-size-chart
